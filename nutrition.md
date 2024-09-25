@@ -73,9 +73,11 @@ Several studies have shown tumor response to, or disease control with, chemother
 
 ### Probiotics
 
+- [Slick sheet from Dieticians in Integrative and Functional Medicine: Probiotics and Prebiotics](./files/pro-prebiotics.pdf) Good general reference, including a recipe for Green Cabbage, Carrot, and Ginger Kraut.
+
 - " Strong research has shown that probiotic supplementation during radiation therapy, chemotherapy, or both is well tolerated and can help prevent radiation- and chemotherapy-induced diarrhea, especially in those receiving radiation to the abdomen.[14-16] If a patient is undergoing radiation to the abdomen or receiving a chemotherapy agent with diarrhea as a common side effect, starting a probiotic supplement upon initiation of therapy could be beneficial. Evidence is also emerging for possible benefits of probiotics for immunotherapy-induced toxicities, particularly in the colon."
 
-Badgeley A, Anwar H, Modi K, et al.: Effect of probiotics and gut microbiota on anti-cancer drugs: Mechanistic perspectives. Biochim Biophys Acta Rev Cancer 1875 (1): 188494, 2021. [PUBMED Abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=33346129&dopt=Abstract)
+  - Badgeley A, Anwar H, Modi K, et al.: Effect of probiotics and gut microbiota on anti-cancer drugs: Mechanistic perspectives. Biochim Biophys Acta Rev Cancer 1875 (1): 188494, 2021. [PUBMED Abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=33346129&dopt=Abstract)
 
 ### Turkey Tail Mushrooms
 
@@ -97,9 +99,10 @@ Touted as most powerful flavinoid known to man.[1]
 
 ## Meds
 
-### FenBen
+### Fenbendazole / FenBen
 
 ***
+
 Only thing for me was/is FenBen(dog dewormer). Im convinced. Hopefully, the 27th cancer doc will say again we see nothing and you have escaped the reaper.
 
 I bought a bag of powder Amazon which came with a 222mg spoon and I sprinkle a heaping spoon of it over my eggs or buttered toast or on melted cheese. No noticeable taste for me. Do this 3 days weekly and take 4 days off. My take on the Joe Tippens protocol.
@@ -115,6 +118,10 @@ I bought a bag of powder Amazon which came with a 222mg spoon and I sprinkle a h
 ### Ivermectin
 
 <https://x.com/MakisMD/status/1828024388580503589?t=ezQB3rqo63oAhGC83EutuA&s=19>
+
+### pegfilgrastim-apgf
+
+- "Pegylated recombinant methionyl human cranulocyte colony-stimulating factor deried from e-coli."  Nasty stuff.
 
 ## Diet and Nutrition
 
