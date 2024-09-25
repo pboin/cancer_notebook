@@ -1,11 +1,5 @@
 # Nutrition
 
-## My Plan
-
-### To Research and Consider
-
-Berberine
-
 ## Supplements
 
 [FLCCC: 12 Metabolic Interventions to Control Cancer](https://dev.flccc.net/tools-and-guides/12-metabolic-interventions-to-control-cancer/)
