@@ -17,9 +17,12 @@
   - Deep and technical. Some bio-chemistry paragraphs.
   - Worth reading, but more work to read than the other.
 
-- **[Keto for Cancer: Ketogenic Metabolic Therapy as a Targeted Nutritional Strategy](https://a.co/d/epBFEqO)**, by Miriam Kalamian EdM MS CNS ( 4.6 / 695 )
-https://www.amazon.com/gp/product/1603587012/
+- **[Keto for Cancer: Ketogenic Metabolic Therapy as a Targeted Nutritional Strategy](https://www.amazon.com/gp/product/1603587012/)**, by Miriam Kalamian EdM MS CNS ( 4.6 / 695 )
   - With a foreword by Dr. Dominic D'Agostino, PhD and contributions from Thomas Seyfried, PhD, author of Cancer as a Metabolic Disease; Miriam Kalamian, EdM, MS, CNS, author of Keto for Cancer; and Beth Zupec Kania, consultant nutritionist of The Charlie Foundation.
+
+### Reading Now
+
+- **[Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms](https://www.amazon.com/Tripping-over-Truth-Overturning-Entrenched/dp/160358935X/)**, by Travis Christofferson ( 4.7 / 1283 )
 
 ### To Order
 
@@ -27,11 +30,7 @@ https://www.amazon.com/gp/product/1603587012/
 
 - **[The Cancer Code: A Revolutionary New Understanding of a Medical Mystery](https://a.co/d/epBFEqO)**, by Jason Fung ( 4.8 / 2050 )
 
-### Reading Now
-
-- **[Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms](https://www.amazon.com/Tripping-over-Truth-Overturning-Entrenched/dp/160358935X/)**, by Travis Christofferson ( 4.7 / 1283 )
-
-### Finished 
+### Finished
 
 - **[12 Keys to a Healthier Cancer Patient: Unlocking Your Body's Incredible Ability to Heal Itself While Working with Your Doctor](https://www.amazon.com/Keys-Healthier-Cancer-Patient-Incredible/dp/0578564297/)**, by Patrick Quillin ( 4.6 / 100 )
 
@@ -39,11 +38,7 @@ https://www.amazon.com/gp/product/1603587012/
   - A decent referece on good general nutrition.  Some repeated material.
   - Includes the '5x5x5 framework' to get started and has plenty of recipes.
 
-
-
-
 ### Ordered
-
 
 ### Not Owned
 
@@ -52,11 +47,6 @@ https://www.amazon.com/gp/product/1603587012/
 - **[Squeaky Clean Keto: Next Level Keto to Hack Your Health](https://www.amazon.com/Squeaky-Clean-Keto-Mellissa-Sevigny/dp/162860400X/)** ( 4.7 / 1250 )
 
 - **[Clean Keto Lifestyle: The Complete Guide to Transforming Your Life & Health](https://www.amazon.com/Clean-Keto-Lifestyle-Complete-Transforming/dp/1641523255/)** ( 4.4 / 659 )
-https://www.amazon.com/Clean-Keto-Lifestyle-Complete-Transforming/dp/1641523255/
-
-Caleb Kate
-
-Michelle Yvonne I wanted to reach out and offer my support during this challenging time. My sister went through a similar situation of pancreatic cancer and Her oncologist recommended a book that was incredibly helpful in understanding her treatment options, friendly recipes , Recovery process and navigating her journey. The book is called 'PANCREATIC CANCER DECIPHERED' by Dr. David Benson an
 
 ## People
 
