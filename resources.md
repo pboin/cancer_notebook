@@ -26,9 +26,11 @@ Fundamentally important book about Christian understanding of mortality, sufferi
 - **12 Keys to a Healthier Cancer Patient: Unlocking Your Body's Incredible Ability to Heal Itself While Working with Your Doctor**, by Patrick Quillin ( 4.6 / 100 )
 <https://www.amazon.com/Keys-Healthier-Cancer-Patient-Incredible/dp/0578564297/>
 
-- East to Beat Cancer
+- East to Beat Cancer, William Li
   - mid
   - general application, some repeated material 
+  - 5x5x5 framework
+  - plenty of recipes
 
 
 ### Ordered
