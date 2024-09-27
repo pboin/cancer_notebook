@@ -3,60 +3,59 @@
 
 ## Books
 
-### Owned
+### My Must-Reads
 
-- **Notes from the Valley: A Spiritual Travelogue through Cancer**, Andy McQuitty ( 4.7 / 60 )
-<https://www.amazon.com/Notes-Valley-Spiritual-Travelogue-through/dp/0802412548/>
-Fundamentally important book about Christian understanding of mortality, suffering, and the Lords' will.
+- **[Notes from the Valley: A Spiritual Travelogue through Cancer](https://www.amazon.com/Notes-Valley-Spiritual-Travelogue-through/dp/0802412548/)**, Andy McQuitty ( 4.7 / 60 )
+  - Fundamentally important book about Christian understanding of mortality, suffering, and the Lords' will.
 
-- **The Cancer Code: Understanding Cancer As an Evolutionary Disease**, Jason Fung ( 4.8 / 2040 )
-<https://a.co/d/1pOB1We>
-
-- **Beating Cancer With Nutrition:  Using Nutrition and Other Modalities to Improve Quality and Quantity of Life for Medically Treated Cancer Patients**, by Patrick Quillin ( 4.6 / 144 )
-<https://www.amazon.com/dp/1735234702/>
+- **[Beating Cancer With Nutrition:  Using Nutrition and Other Modalities to Improve Quality and Quantity of Life for Medically Treated Cancer Patients](https://www.amazon.com/dp/1735234702/)**, by Patrick Quillin ( 4.6 / 144 )
   - Good references in end notes.  Tons of additional reading.
   - Wide coverage and easy to read in a layout similar to a textbook.
   - Very well organized and easy to refer back to.
 
-- **The Metabolic Approach to Cancer:  Integrating Deep Nutrition, the Ketogenic Diet, and Nontoxic Bio-Individualized Therapies**, by Winters and Kelley ( 4.7 / 1118 )
-<https://www.amazon.com/dp/1603586865/>
+- **[The Metabolic Approach to Cancer:  Integrating Deep Nutrition, the Ketogenic Diet, and Nontoxic Bio-Individualized Therapies](https://www.amazon.com/dp/1603586865/)**, by Winters and Kelley ( 4.7 / 1118 )
   - Deep and technical. Some bio-chemistry paragraphs.
   - Worth reading, but more work to read than the other.
 
-- **12 Keys to a Healthier Cancer Patient: Unlocking Your Body's Incredible Ability to Heal Itself While Working with Your Doctor**, by Patrick Quillin ( 4.6 / 100 )
-<https://www.amazon.com/Keys-Healthier-Cancer-Patient-Incredible/dp/0578564297/>
+- **[Keto for Cancer: Ketogenic Metabolic Therapy as a Targeted Nutritional Strategy](https://a.co/d/epBFEqO)**, by Miriam Kalamian EdM MS CNS ( 4.6 / 695 )
+https://www.amazon.com/gp/product/1603587012/
+  - With a foreword by Dr. Dominic D'Agostino, PhD and contributions from Thomas Seyfried, PhD, author of Cancer as a Metabolic Disease; Miriam Kalamian, EdM, MS, CNS, author of Keto for Cancer; and Beth Zupec Kania, consultant nutritionist of The Charlie Foundation.
 
-- East to Beat Cancer, William Li
-  - mid
-  - general application, some repeated material 
-  - 5x5x5 framework
-  - plenty of recipes
+### To Order
+
+- **[The Cancer Code: Understanding Cancer As an Evolutionary Disease](https://a.co/d/1pOB1We)**, Jason Fung ( 4.8 / 2040 )
+
+- **[The Cancer Code: A Revolutionary New Understanding of a Medical Mystery](https://a.co/d/epBFEqO)**, by Jason Fung ( 4.8 / 2050 )
+
+### Reading Now
+
+- **[Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms](https://www.amazon.com/Tripping-over-Truth-Overturning-Entrenched/dp/160358935X/)**, by Travis Christofferson ( 4.7 / 1283 )
+
+### Finished 
+
+- **[12 Keys to a Healthier Cancer Patient: Unlocking Your Body's Incredible Ability to Heal Itself While Working with Your Doctor](https://www.amazon.com/Keys-Healthier-Cancer-Patient-Incredible/dp/0578564297/)**, by Patrick Quillin ( 4.6 / 100 )
+
+- **[Eat to Beat Disease](https://www.amazon.com/Eat-Beat-Disease-Science-Itself/dp/1538714620/)**, by William Li ( 4.6 / 8600 )  
+  - A decent referece on good general nutrition.  Some repeated material.
+  - Includes the '5x5x5 framework' to get started and has plenty of recipes.
+
+
 
 
 ### Ordered
 
-- **The Cancer Code: A Revolutionary New Understanding of a Medical Mystery**, by Jason Fung ( 4.8 / 2050 )
-<https://a.co/d/epBFEqO>
-
-- **Keto for Cancer: Ketogenic Metabolic Therapy as a Targeted Nutritional Strategy**, by Miriam Kalamian EdM MS CNS ( 4.6 / 695 )
-<https://www.amazon.com/gp/product/1603587012/>
-
-- **Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms**, by Travis Christofferson ( 4.7 / 1283 )
-<https://www.amazon.com/Tripping-over-Truth-Overturning-Entrenched/dp/160358935X/>
-  - With a foreword by Dr. Dominic D'Agostino, PhD and contributions from Thomas Seyfried, PhD, author of Cancer as a Metabolic Disease; Miriam Kalamian, EdM, MS, CNS, author of Keto for Cancer; and Beth Zupec Kania, consultant nutritionist of The Charlie Foundation.
 
 ### Not Owned
 
-- **Fight Cancer with a Ketogenic Diet, by Ellen Davi**s ( 4.3 / 103 )
-<https://www.amazon.com/Fight-Cancer-Ketogenic-Diet-Third/dp/1943721033/>
+- **[Fight Cancer with a Ketogenic Diet, by Ellen Davis](https://www.amazon.com/Fight-Cancer-Ketogenic-Diet-Third/dp/1943721033/)** ( 4.3 / 103 )
 
-- **Squeaky Clean Keto: Next Level Keto to Hack Your Health** ( 4.7 / 1250 )
-<https://www.amazon.com/Squeaky-Clean-Keto-Mellissa-Sevigny/dp/162860400X/>
+- **[Squeaky Clean Keto: Next Level Keto to Hack Your Health](https://www.amazon.com/Squeaky-Clean-Keto-Mellissa-Sevigny/dp/162860400X/)** ( 4.7 / 1250 )
 
-- **Clean Keto Lifestyle: The Complete Guide to Transforming Your Life & Health** ( 4.4 / 659 )
-<https://www.amazon.com/Clean-Keto-Lifestyle-Complete-Transforming/dp/1641523255/>
+- **[Clean Keto Lifestyle: The Complete Guide to Transforming Your Life & Health](https://www.amazon.com/Clean-Keto-Lifestyle-Complete-Transforming/dp/1641523255/)** ( 4.4 / 659 )
+https://www.amazon.com/Clean-Keto-Lifestyle-Complete-Transforming/dp/1641523255/
 
 Caleb Kate
+
 Michelle Yvonne I wanted to reach out and offer my support during this challenging time. My sister went through a similar situation of pancreatic cancer and Her oncologist recommended a book that was incredibly helpful in understanding her treatment options, friendly recipes , Recovery process and navigating her journey. The book is called 'PANCREATIC CANCER DECIPHERED' by Dr. David Benson an
 
 ## People
