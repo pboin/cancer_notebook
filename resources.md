@@ -33,6 +33,12 @@
 
 - **[Keto for Cancer: Ketogenic Metabolic Therapy as a Targeted Nutritional Strategy](https://www.amazon.com/gp/product/1603587012/)**, by Miriam Kalamian EdM MS CNS ( 4.6 / 695 )
   - With a foreword by Dr. Dominic D'Agostino, PhD and contributions from Thomas Seyfried, PhD, author of Cancer as a Metabolic Disease; Miriam Kalamian, EdM, MS, CNS, author of Keto for Cancer; and Beth Zupec Kania, consultant nutritionist of The Charlie Foundation.
+  - Standard American Diet: Fat/Protein/Carb is 20-30/10-35/45-65
+  - Ketogenic Diet: Fat/Protein/Carb is 78-86/8-12/2-6
+  - Comparison and contrast of several diets: Atkins, Servan-Schreiber, Budwig, Gerson, vegan, Mediteranean, paleo
+  - Recommends limiting keto proteins to 0.8 grams per kg of ideal body weight.  ( 85kg * 0.8g = 68g = 3 oz. )
+  - Protein yields are not weights!  58g of chicken breast, 65g of ground beef, 65g of salmon, and 3 large eggs all yield 18g of protein. p. 206
+  - 
 
 ### Reading Now
 
@@ -73,6 +79,10 @@ Alternative clinic. Ohio?
 
 - [Chris Wark: Chris Beat Cancer](https://www.chrisbeatcancer.com/)
 
+- [Dr. Seyfried]()
+  - Big into the glucose-keytone index ( GKI )
+  - Wrote "The Gluecose Keytone Index Calculator: A Simple Tool to Monitor Therapeutic Efficasy fro Metabolic Management of Brain Cancer"
+
 ## Videos and Podcasts
 
 - Jerry Brunetti's 'Food as Medicine' talk from 2005.  Haven't watched it yet.
@@ -83,6 +93,8 @@ Alternative clinic. Ohio?
 ### To Check Out
 
 - nanets
+
+- FABNO: Amercian Board of Naturopathic Oncology
   
 - [Healing Strong](https://healingstrong.org/)
   - From Tappan
@@ -98,6 +110,14 @@ Alternative clinic. Ohio?
   - HQ is in Hunt Valley, MD
   - From Tappan
 
+- [Keto Calculator](https://keto-calculator.ankerl.com/)
+  - Very good analysis of starting keto macros
+  - For me:
+    - 2248	kcal Daily Calorie Intake
+    - 25	g Carbs (4%, 100 kcal)
+    - 120	g Protein / 4.2 ounces (21%, 480 kcal)
+    - 185	g Fat (75%, 1668 kcal)
+- 
 - [Mr Lab Test](https://mrlabtest.com)
   - Very handy reference for each type of blood lab, and what to know about it being high or low.
 
