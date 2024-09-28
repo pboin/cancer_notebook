@@ -84,10 +84,10 @@ Alternative clinic. Ohio?
 
 - nanets
   
-- [Healing Strong](https://healingstrong.org/jumpstart-action)
+- [Healing Strong](https://healingstrong.org/)
   - From Tappan
 
-- [The Moss Report](https://www.themossreport.com/contact/)
+- [The Moss Report](https://www.themossreport.com//)
   - On the Nasha Winters 'Metabolic Matters' podcast as a guest
 
 ### Reviewed

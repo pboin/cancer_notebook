@@ -112,11 +112,16 @@ Touted as most powerful flavinoid known to man.[1]
 
 [1]  Metabolic Approach to Cancer
 
-<https://www.cancer.gov/about-cancer/treatment/cam/patient/dietary-interactions-pdq>
+- <https://www.cancer.gov/about-cancer/treatment/cam/patient/dietary-interactions-pdq>
 
-- " Quercetin is the most common bioflavonoid that people consume, and is the most active of the bioflavonoids in laboratory experiments. It is known to act as an antioxidant, neutralizing free radicals that can cause cellular and DNA damage. Quercetin is thought to have anti-inflammatory properties by inhibiting the release of substances that mediate the inflammatory response, such as histamine. Presently, considerable laboratory data support the concept of quercetin as an anticancer compound, but it is still unclear from clinical trials whether this effect occurs in the human body. Because of its antioxidant effects, quercetin may interfere with the actions of certain chemotherapy drugs." <https://www.mskcc.org/cancer-care/integrative-medicine/herbs/quercetin>
+  - " Quercetin is the most common bioflavonoid that people consume, and is the most active of the bioflavonoids in laboratory experiments. It is known to act as an antioxidant, neutralizing free radicals that can cause cellular and DNA damage. Quercetin is thought to have anti-inflammatory properties by inhibiting the release of substances that mediate the inflammatory response, such as histamine. Presently, considerable laboratory data support the concept of quercetin as an anticancer compound, but it is still unclear from clinical trials whether this effect occurs in the human body. Because of its antioxidant effects, quercetin may interfere with the actions of certain chemotherapy drugs." <https://www.mskcc.org/cancer-care/integrative-medicine/herbs/quercetin>
 
 - Read this: <https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1077531/full>
+
+- [Sloan Kettering: Quercetin](https://www.mskcc.org/cancer-care/integrative-medicine/herbs/quercetin)
+  - "Quercetin belongs to a family of compounds called bioflavonoids, which are largely responsible for the bright colors and medicinal activities of many plants. Quercetin is the most common bioflavonoid that people consume, and is the most active of the bioflavonoids in laboratory experiments. It is known to act as an antioxidant, neutralizing free radicals that can cause cellular and DNA damage. Quercetin is thought to have anti-inflammatory properties by inhibiting the release of substances that mediate the inflammatory response, such as histamine. Presently, considerable laboratory data support the concept of quercetin as an anticancer compound, but it is still unclear from clinical trials whether this effect occurs in the human body.
+
+  Because of its antioxidant effects, quercetin may interfere with the actions of certain chemotherapy drugs."
 
 ## Meds
 
