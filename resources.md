@@ -1,6 +1,20 @@
 
 # Resources
 
+- [Resources](#resources)
+  - [Books](#books)
+    - [My Must-Reads](#my-must-reads)
+    - [Reading Now](#reading-now)
+    - [To Order](#to-order)
+    - [Finished](#finished)
+    - [Ordered](#ordered)
+    - [Not Owned](#not-owned)
+  - [People](#people)
+  - [Videos and Podcasts](#videos-and-podcasts)
+  - [Websites](#websites)
+    - [To Check Out](#to-check-out)
+    - [Reviewed](#reviewed)
+
 ## Books
 
 ### My Must-Reads
@@ -15,7 +29,7 @@
 
 - **[The Metabolic Approach to Cancer:  Integrating Deep Nutrition, the Ketogenic Diet, and Nontoxic Bio-Individualized Therapies](https://www.amazon.com/dp/1603586865/)**, by Winters and Kelley ( 4.7 / 1118 )
   - Deep and technical. Some bio-chemistry paragraphs.
-  - Worth reading, but more work to read than the other.
+  - Worth reading, but more work to read than Quillin's book.
 
 - **[Keto for Cancer: Ketogenic Metabolic Therapy as a Targeted Nutritional Strategy](https://www.amazon.com/gp/product/1603587012/)**, by Miriam Kalamian EdM MS CNS ( 4.6 / 695 )
   - With a foreword by Dr. Dominic D'Agostino, PhD and contributions from Thomas Seyfried, PhD, author of Cancer as a Metabolic Disease; Miriam Kalamian, EdM, MS, CNS, author of Keto for Cancer; and Beth Zupec Kania, consultant nutritionist of The Charlie Foundation.
@@ -83,9 +97,9 @@ Alternative clinic. Ohio?
   - Big on spiritual healing
   - HQ is in Hunt Valley, MD
   - From Tappan
-  - 
+
 - [Mr Lab Test](https://mrlabtest.com)
-  - Very handy reference for each type of blood lab, and what to know about it being high or low. 
+  - Very handy reference for each type of blood lab, and what to know about it being high or low.
 
 - [Metabolic Terrain Institute of Health](https://www.mtih.org/)
   - Dr. Nasha Winters
