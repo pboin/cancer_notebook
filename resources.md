@@ -38,7 +38,7 @@
   - Comparison and contrast of several diets: Atkins, Servan-Schreiber, Budwig, Gerson, vegan, Mediteranean, paleo
   - Recommends limiting keto proteins to 0.8 grams per kg of ideal body weight.  ( 85kg * 0.8g = 68g = 3 oz. )
   - Protein yields are not weights!  58g of chicken breast, 65g of ground beef, 65g of salmon, and 3 large eggs all yield 18g of protein. p. 206
-  - 
+  - Very nice list of resources as an appendix.
 
 ### Reading Now
 
