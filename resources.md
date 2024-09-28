@@ -6,7 +6,7 @@
 ### My Must-Reads
 
 - **[Notes from the Valley: A Spiritual Travelogue through Cancer](https://www.amazon.com/Notes-Valley-Spiritual-Travelogue-through/dp/0802412548/)**, Andy McQuitty ( 4.7 / 60 )
-  - Fundamentally important book about Christian understanding of mortality, suffering, and the Lords' will.
+  - Fundamentally important book about Christian understanding of mortality, suffering, and the Lord's will.
 
 - **[Beating Cancer With Nutrition:  Using Nutrition and Other Modalities to Improve Quality and Quantity of Life for Medically Treated Cancer Patients](https://www.amazon.com/dp/1735234702/)**, by Patrick Quillin ( 4.6 / 144 )
   - Good references in end notes.  Tons of additional reading.
@@ -25,8 +25,6 @@
 - **[Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms](https://www.amazon.com/Tripping-over-Truth-Overturning-Entrenched/dp/160358935X/)**, by Travis Christofferson ( 4.7 / 1283 )
 
 ### To Order
-
-- **[The Cancer Code: Understanding Cancer As an Evolutionary Disease](https://a.co/d/1pOB1We)**, Jason Fung ( 4.8 / 2040 )
 
 - **[The Cancer Code: A Revolutionary New Understanding of a Medical Mystery](https://a.co/d/epBFEqO)**, by Jason Fung ( 4.8 / 2050 )
 
@@ -80,16 +78,20 @@ Alternative clinic. Ohio?
 
 ### Reviewed
 
-- [Mr Lab Test](https://mrlabtest.com)
-
-- [Metabolic Terrain Institute of Health](https://www.mtih.org/)
-  - Dr. Nasha Winters
-
 - [Believe Big](https://believebig.org)
   - Big on mistletoe
   - Big on spiritual healing
   - HQ is in Hunt Valley, MD
   - From Tappan
+  - 
+- [Mr Lab Test](https://mrlabtest.com)
+  - Very handy reference for each type of blood lab, and what to know about it being high or low. 
+
+- [Metabolic Terrain Institute of Health](https://www.mtih.org/)
+  - Dr. Nasha Winters
+
+- [TedTalk on Music Therapy](https://youtu.be/NlY4yCsGKXU?si=qmQ50O3xSVSHBZdt)
+  - Specifically talks about cancer, but applies to many situations and to anxiety in general.  This is my [Pandora Station](https://pandora.app.link/MluCFFUEeNb) that helped me get through some long hours.
 
 - [Ketogenic Diet Resource - Ellen Davis](https://www.ketogenic-diet-resource.com/)
 
