@@ -39,10 +39,14 @@
   - Recommends limiting keto proteins to 0.8 grams per kg of ideal body weight.  ( 85kg * 0.8g = 68g = 3 oz. )
   - Protein yields are not weights!  58g of chicken breast, 65g of ground beef, 65g of salmon, and 3 large eggs all yield 18g of protein. p. 206
   - Very nice list of resources as an appendix.
+  
+- **[Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms](https://www.amazon.com/Tripping-over-Truth-Overturning-Entrenched/dp/160358935X/)**, by Travis Christofferson ( 4.7 / 1283 )
+  - Different than the other books, this is a long story about the history of oncology:  how we got where we are.
+  - Details chemo and how it works.
+  - Writing is complex and in certain sections.  Still very interesting.
+  - Central thread is the debate between SMT ( somatict mutation theory ) and failures in the body's metabolic system.
 
 ### Reading Now
-
-- **[Tripping over the Truth: How the Metabolic Theory of Cancer Is Overturning One of Medicine's Most Entrenched Paradigms](https://www.amazon.com/Tripping-over-Truth-Overturning-Entrenched/dp/160358935X/)**, by Travis Christofferson ( 4.7 / 1283 )
 
 ### To Order
 
@@ -79,9 +83,12 @@ Alternative clinic. Ohio?
 
 - [Chris Wark: Chris Beat Cancer](https://www.chrisbeatcancer.com/)
 
-- [Dr. Seyfried]()
+- [Dr. Seyfried](https://tomseyfried.com/)
   - Big into the glucose-keytone index ( GKI )
   - Wrote "The Gluecose Keytone Index Calculator: A Simple Tool to Monitor Therapeutic Efficasy fro Metabolic Management of Brain Cancer"
+  - Wrote [Can the Mitochondrial Metabolic Theory Explain Better the
+Origin and Management of Cancer than Can the Somatic
+Mutation Theory?](files\metabolites-11-00572.pdf)
 
 ## Videos and Podcasts
 
@@ -116,11 +123,11 @@ Alternative clinic. Ohio?
 - [Keto Calculator](https://keto-calculator.ankerl.com/)
   - Very good analysis of starting keto macros
   - For me:
-    - 2248	kcal Daily Calorie Intake
-    - 25	g Carbs (4%, 100 kcal)
-    - 120	g Protein / 4.2 ounces (21%, 480 kcal)
-    - 185	g Fat (75%, 1668 kcal)
-- 
+    - 2248 kcal Daily Calorie Intake
+    - 25 g Carbs (4%, 100 kcal)
+    - 120 g Protein / 4.2 ounces (21%, 480 kcal)
+    - 185 g Fat (75%, 1668 kcal)
+
 - [Mr Lab Test](https://mrlabtest.com)
   - Very handy reference for each type of blood lab, and what to know about it being high or low.
 
