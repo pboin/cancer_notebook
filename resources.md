@@ -52,6 +52,8 @@
 
 - **[The Cancer Code: A Revolutionary New Understanding of a Medical Mystery](https://a.co/d/epBFEqO)**, by Jason Fung ( 4.8 / 2050 )
 
+- **[The Emporer of All Maladies](https://www.amazon.com/Emperor-All-Maladies-Biography-Cancer/dp/1439170916)**, by Siddhartha Mukherjee  ( 4.7 / 9400 )
+
 ### Finished
 
 - **[12 Keys to a Healthier Cancer Patient: Unlocking Your Body's Incredible Ability to Heal Itself While Working with Your Doctor](https://www.amazon.com/Keys-Healthier-Cancer-Patient-Incredible/dp/0578564297/)**, by Patrick Quillin ( 4.6 / 100 )
@@ -98,8 +100,6 @@ Mutation Theory?](files\metabolites-11-00572.pdf)
 ## Websites
 
 ### To Check Out
-
-- nanets
 
 - FABNO: Amercian Board of Naturopathic Oncology
   
@@ -151,7 +151,7 @@ Mutation Theory?](files\metabolites-11-00572.pdf)
 - Good general-purpose website
 <https://www.mdanderson.org/patients-family/life-after-cancer/long-term-effects.html>
 
-- <https://cancerblog.mayoclinic.org/2021/11/10/the-abcs-of-pnets-pancreatic-neuroendocrine-tumors/>
+
 
 - Kresser blog post talking about keto and fasting potential. "If I was diagnosed with cancer or one of my relatives or friends were diagnosed, I would certainly put the ketogenic diet and fasting at the top of the list of potential treatments to investigate because I see a high potential for benefit and very little downside"
 <https://chriskresser.com/ketogenic-diet-and-cancer/>
