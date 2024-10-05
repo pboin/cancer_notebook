@@ -45,6 +45,7 @@
   - Details chemo and how it works.
   - Writing is complex and in certain sections.  Still very interesting.
   - Central thread is the debate between SMT ( somatict mutation theory ) and failures in the body's metabolic system.
+  - A chronology of Warburg, Seyfried, and many others and how their work evolved over time.
 
 ### Reading Now
 
@@ -109,6 +110,7 @@ Mutation Theory?](files\metabolites-11-00572.pdf)
 - [The Moss Report](https://www.themossreport.com//)
   - On the Nasha Winters 'Metabolic Matters' podcast as a guest
 
+
 ### Reviewed
 
 - [Believe Big](https://believebig.org)
@@ -134,6 +136,9 @@ Mutation Theory?](files\metabolites-11-00572.pdf)
 - [Metabolic Terrain Institute of Health](https://www.mtih.org/)
   - Dr. Nasha Winters
 
+- [Society for Integrative Oncology](https://integrativeonc.org/)
+  - Big website. Seems like it's a professional society for docs more than a patient resource.
+  
 - [TedTalk on Music Therapy](https://youtu.be/NlY4yCsGKXU?si=qmQ50O3xSVSHBZdt)
   - Specifically talks about cancer, but applies to many situations and to anxiety in general.  This is my [Pandora Station](https://pandora.app.link/MluCFFUEeNb) that helped me get through some long hours.
 
@@ -150,8 +155,6 @@ Mutation Theory?](files\metabolites-11-00572.pdf)
 
 - Good general-purpose website
 <https://www.mdanderson.org/patients-family/life-after-cancer/long-term-effects.html>
-
-
 
 - Kresser blog post talking about keto and fasting potential. "If I was diagnosed with cancer or one of my relatives or friends were diagnosed, I would certainly put the ketogenic diet and fasting at the top of the list of potential treatments to investigate because I see a high potential for benefit and very little downside"
 <https://chriskresser.com/ketogenic-diet-and-cancer/>
