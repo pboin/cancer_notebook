@@ -44,8 +44,8 @@
   - Different than the other books, this is a long story about the history of oncology:  how we got where we are.
   - Details chemo and how it works.
   - Writing is complex and in certain sections.  Still very interesting.
-  - Central thread is the debate between SMT ( somatict mutation theory ) and failures in the body's metabolic system.
-  - A chronology of Warburg, Seyfried, and many others and how their work evolved over time.
+  - Central thread is the debate between SMT ( somatic mutation theory ) and failures in the body's metabolic system.
+  - A chronology of Warburg, Seyfried, and others and how their work evolved over time.
 
 ### Reading Now
 
