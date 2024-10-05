@@ -6,6 +6,8 @@ This approach focuses on A) setting the metabolic terrain up for successful main
 
 [Nutrition](nutrition.md)
 
+[PNETs](pnets.md)
+
 [Podcasts](podcasts.md)
 
 [Resources](resources.md)
