@@ -129,9 +129,9 @@ Touted as most powerful flavinoid known to man.[1]
 
 ***
 
-Only thing for me was/is FenBen(dog dewormer). Im convinced. Hopefully, the 27th cancer doc will say again we see nothing and you have escaped the reaper.
+Karl Denninger:  "Only thing for me was/is FenBen(dog dewormer). Im convinced. Hopefully, the 27th cancer doc will say again we see nothing and you have escaped the reaper.
 
-I bought a bag of powder Amazon which came with a 222mg spoon and I sprinkle a heaping spoon of it over my eggs or buttered toast or on melted cheese. No noticeable taste for me. Do this 3 days weekly and take 4 days off. My take on the Joe Tippens protocol.
+I bought a bag of powder Amazon which came with a 222mg spoon and I sprinkle a heaping spoon of it over my eggs or buttered toast or on melted cheese. No noticeable taste for me. Do this 3 days weekly and take 4 days off. My take on the Joe Tippens protocol."
 
 <https://market-ticker.org/akcs-www?singlepost=4146682>
 
@@ -147,7 +147,8 @@ I bought a bag of powder Amazon which came with a 222mg spoon and I sprinkle a h
 
 ### pegfilgrastim-apgf
 
-- "Pegylated recombinant methionyl human cranulocyte colony-stimulating factor deried from e-coli."  Nasty stuff.
+- "Pegylated recombinant methionyl human cranulocyte colony-stimulating factor deried from e-coli."
+-   Nasty stuff.  On it and I hate it.
 
 ## Diet and Nutrition
 
