@@ -53,6 +53,8 @@
 
 - **[The Cancer Code: A Revolutionary New Understanding of a Medical Mystery](https://a.co/d/epBFEqO)**, by Jason Fung ( 4.8 / 2050 )
 
+- **[Cancer as a Metabolic Disease: On the Origin, Management, and Prevention of Cancer](https://www.amazon.com/Cancer-Metabolic-Disease-Management-Prevention/dp/0470584920/)**, by Seyfried ( 4.6 / 309 )
+
 - **[The Emporer of All Maladies](https://www.amazon.com/Emperor-All-Maladies-Biography-Cancer/dp/1439170916)**, by Siddhartha Mukherjee  ( 4.7 / 9400 )
 
 ### Finished
@@ -92,6 +94,8 @@ Alternative clinic. Ohio?
   - Wrote [Can the Mitochondrial Metabolic Theory Explain Better the
 Origin and Management of Cancer than Can the Somatic
 Mutation Theory?](files\metabolites-11-00572.pdf)
+  - Wrote "Cancer as a Metabolic Disease: On the Origin, Management, and Prevention of Cancer"
+  - Has a 'treatise' on mitochondrial and/or metabolic disease.  Find this!
 
 ## Videos and Podcasts
 

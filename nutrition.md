@@ -20,6 +20,7 @@
   - [Diet and Nutrition](#diet-and-nutrition)
     - [Keto](#keto)
     - [Shakes](#shakes)
+    - [Glutamine](#glutamine)
 
 ## Supplements
 
@@ -127,6 +128,8 @@ Touted as most powerful flavinoid known to man.[1]
 
 ### Fenbendazole / FenBen
 
+- There was a comment on the Seyfried video suggesting that FenBen reduces and manages glutamine.  This needs research.
+
 ***
 
 Karl Denninger:  "Only thing for me was/is FenBen(dog dewormer). Im convinced. Hopefully, the 27th cancer doc will say again we see nothing and you have escaped the reaper.
@@ -160,3 +163,6 @@ I bought a bag of powder Amazon which came with a 222mg spoon and I sprinkle a h
 
 - [Kachava](https://www.kachava.com/products/shakes)
 - [310 Nutrition](https://310nutrition.com/)
+
+### Glutamine
+- [Sloan Kettering: Beyond Sugar: What Cancer Cells Need to Grow](https://www.mskcc.org/news/beyond-sugar-what-cancer-cells-need-grow)
