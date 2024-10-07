@@ -46,6 +46,8 @@
   - Writing is complex and in certain sections.  Still very interesting.
   - Central thread is the debate between SMT ( somatic mutation theory ) and failures in the body's metabolic system.
   - A chronology of Warburg, Seyfried, and others and how their work evolved over time.
+  - There is no requirement for SMT or Genetic theories to be exclusivly 'right'.  They are probably interrelated.
+  - Refers to 'Care Oncology Clinic', which supplements traditional med treatments.
 
 ### Reading Now
 
@@ -122,6 +124,11 @@ Mutation Theory?](files\metabolites-11-00572.pdf)
   - Big on spiritual healing
   - HQ is in Hunt Valley, MD
   - From Tappan
+
+- [Care Oncology](https://careoncology.com/)
+  - Supplementary treatment protocols, potentially including FenBen, Metformin, and the like
+  - "Jane McLelland's Off-Label Drugs for Cancer"
+  - _Surviving Termincal Cancer_ documentary by Dominick Hill.  Fought brain gioblatoma w/ off-label treatment.
 
 - [Foundation for Metabolic Cancer Therapies](https://foundationformetaboliccancertherapies.com)
   - Started by Travis Christoferson, author of 'Tripping over the Truth'
