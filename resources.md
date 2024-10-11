@@ -14,6 +14,8 @@
   - [Websites](#websites)
     - [To Check Out](#to-check-out)
     - [Reviewed](#reviewed)
+  - [Events](#events)
+    - [2024 Metabolic Health Day ( Metabolic Health Institute )](#2024-metabolic-health-day--metabolic-health-institute-)
 
 ## Books
 
@@ -169,3 +171,15 @@ Mutation Theory?](files\metabolites-11-00572.pdf)
 
 - Kresser blog post talking about keto and fasting potential. "If I was diagnosed with cancer or one of my relatives or friends were diagnosed, I would certainly put the ketogenic diet and fasting at the top of the list of potential treatments to investigate because I see a high potential for benefit and very little downside"
 <https://chriskresser.com/ketogenic-diet-and-cancer/>
+
+## Events
+
+### 2024 Metabolic Health Day ( Metabolic Health Institute )
+- [2024 Metabolic Health Day](https://metabolic-health-day-2024.mn.co)
+- https://metabolic-health-day-2024.mn.co/posts/educational-content-some-of-our-favorite-podcast-videos
+ - Recommended Podcast Sessions
+   - [Joe Rogan #2210 - Calley Means and Casey Means](https://youtu.be/G0lTyhvOeJs)
+   - [Groundbreaking Cancer Expert: This common Food is Making Cancer Worse](https://youtu.be/VaVC3PAWqLk)
+   - Huberman: What Alcohol does to your Body, Brain, and Health
+   - [Fasting for Survival Leture by Dr. Pradip Jamnadas](https://www.youtube.com/embed/RuOvn4UqznU)
+   - [Metabolic Approach to Midlife Health with Dr. Nasha Winters](https://youtu.be/ua30P3-eQ4Q)
