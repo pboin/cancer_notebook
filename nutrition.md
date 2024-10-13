@@ -128,6 +128,8 @@ Touted as most powerful flavinoid known to man.[1]
 
 ### Fenbendazole / FenBen
 
+- https://x.com/MakisMD/status/1845353670407233817?t=RkT_q9eTTufmm1_e46oIFQ&s=19
+
 - There was a comment on the Seyfried video suggesting that FenBen reduces and manages glutamine.  This needs research.
 
 ***
