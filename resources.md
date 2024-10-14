@@ -50,6 +50,7 @@
   - A chronology of Warburg, Seyfried, and others and how their work evolved over time.
   - There is no requirement for SMT or Genetic theories to be exclusivly 'right'.  They are probably interrelated.
   - Refers to 'Care Oncology Clinic', which supplements traditional med treatments.
+  - *"Slocum percolated with enthusiasm as he handed me a paper published in January 2016 by the ChemoThermia team detailing the experience using Metabolically Supported Chemotherapy ( MCST ) in pancreatic cancer. In their comparison of patients whoe had received the chemothereapy regiment known as FOLFIRINOX plus MCST to those who received FOLFIRINOX alonge, they found an improved median survival rate:  19.5 months in the patients receiving supplemental MCST therapy compared to 11.1 months in those receiving FOLFIRINOX alone. The one-year survival rate for those in the first group ( FOLFIRINOX plus MCST ) was 82.5 percent, compared to 48.4 percent in the second group ( FOLFIRINOX alone ), an amazing increas. Slocum also noted that 54 percent of the patnients included in this study remained healthy, alive, and free of disease progression at time of publication. "We will be rebublishing our results next year, and because so many patients are still alive our median survival is going to be over 20 months," marveled Slocum."*
 
 ### Reading Now
 
