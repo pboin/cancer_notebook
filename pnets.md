@@ -12,3 +12,6 @@ The page is specific to PNETs.  Probably not applicable to too many people. ( At
 - [North American Neuroendocrine Tumor Society - NANETS](https://nanets.net/)
 
 peptide receptor radionuclide therapy (PRRT)
+
+Poorly differentiated pancreatic neuroendocrine carcinomas (pNECs) are rare, highly aggressive neoplasms
+

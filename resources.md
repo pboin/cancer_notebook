@@ -1,21 +1,19 @@
 
-# Resources
 
-- [Resources](#resources)
-  - [Books](#books)
-    - [My Must-Reads](#my-must-reads)
-    - [Reading Now](#reading-now)
-    - [To Order](#to-order)
-    - [Finished](#finished)
-    - [Ordered](#ordered)
-    - [Not Owned](#not-owned)
-  - [People](#people)
-  - [Videos and Podcasts](#videos-and-podcasts)
-  - [Websites](#websites)
-    - [To Check Out](#to-check-out)
-    - [Reviewed](#reviewed)
-  - [Events](#events)
-    - [2024 Metabolic Health Day ( Metabolic Health Institute )](#2024-metabolic-health-day--metabolic-health-institute-)
+- [Books](#books)
+  - [My Must-Reads](#my-must-reads)
+  - [Reading Now](#reading-now)
+  - [To Order](#to-order)
+  - [Finished](#finished)
+  - [Ordered](#ordered)
+  - [Not Owned](#not-owned)
+- [People](#people)
+- [Videos and Podcasts](#videos-and-podcasts)
+- [Websites](#websites)
+  - [To Check Out](#to-check-out)
+  - [Reviewed](#reviewed)
+- [Events](#events)
+  - [2024 Metabolic Health Day ( Metabolic Health Institute )](#2024-metabolic-health-day--metabolic-health-institute-)
 
 ## Books
 
