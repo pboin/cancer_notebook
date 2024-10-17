@@ -13,7 +13,7 @@
   - Lots of commentary on sugar and carbs
   - Dr. Tims says if you do carbs, there will be less impact when paired with proteins or food in general.  Handful of chips bad, but apple with good PB is better.
   - Some comments on artificial sweeteners.
- 
+
 - [Nutrition with Judy:  Metabolic Therapy for Cancer Patients w/ Thomas Seyfried](https://youtu.be/5uyXao8x3_s?si=oTYWbqcB6mUO81ni)
   - "Often times it's the medication that's killing the patient"
   - "The mutations you see in cancer are the result of metabolic disfunction, not the cause of the disease."
@@ -26,3 +26,11 @@
   - There are risk factors like BRCA1, but they're not predictive.  Healthy women still do fine.
   - Boston zoo said that feeding gorillas jelly donuts would be animal cruelty.
   - Be careful of processed and cured meats:  sausages, lunch meat, etc.
+
+- [Doctor's Farmacy w/ Mark Hyman:  A Radical Dietary Approach to Cancer Treatment with Dr. Thomas Seyfried](https://pdst.fm/e/mgln.ai/e/269/pscrb.fm/rss/p/traffic.megaphone.fm/HYMANDIGITALLLC4355600507.mp3?updated=1713554815)
+  - Dr. Seyfried is the OG for the Metabolic Theory
+  - Glucose and glutamine are the two most important things in cancer.
+  - According to the Metabolic Theory, targetted imunity drugs will always struggle with diferentiated cells, since it's the metabolic system that lets randomness creep in.
+  - Cancer can only ferment -- so it's very important to manage sugar and glutamine.
+  - No diet can control glutamine.  Seyfried uses drugs to 'pulse' the supression and let the body recover.
+  - Some people do well on longer-term, lower-dose chemotherapies, supplemented with keto eating.

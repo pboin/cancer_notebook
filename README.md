@@ -1,4 +1,4 @@
-y# Cancer Notebook
+# Cancer Notebook
 
 This collection of information is my personal notebook regarding cancer.  The general focus is integrative and complimentary medicine where pharmaceutical meds are paired with nutrition and exercise.
 
