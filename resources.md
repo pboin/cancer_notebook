@@ -1,19 +1,20 @@
+# Resources
 
-
-- [Books](#books)
-  - [My Must-Reads](#my-must-reads)
-  - [Reading Now](#reading-now)
-  - [To Order](#to-order)
-  - [Finished](#finished)
-  - [Ordered](#ordered)
-  - [Not Owned](#not-owned)
-- [People](#people)
-- [Videos and Podcasts](#videos-and-podcasts)
-- [Websites](#websites)
-  - [To Check Out](#to-check-out)
-  - [Reviewed](#reviewed)
-- [Events](#events)
-  - [2024 Metabolic Health Day ( Metabolic Health Institute )](#2024-metabolic-health-day--metabolic-health-institute-)
+- [Resources](#resources)
+  - [Books](#books)
+    - [My Must-Reads](#my-must-reads)
+    - [Reading Now](#reading-now)
+    - [To Order](#to-order)
+    - [Finished](#finished)
+    - [Ordered](#ordered)
+    - [Not Owned](#not-owned)
+  - [People](#people)
+  - [Videos and Podcasts](#videos-and-podcasts)
+  - [Websites](#websites)
+    - [To Check Out](#to-check-out)
+    - [Reviewed](#reviewed)
+  - [Events](#events)
+    - [2024 Metabolic Health Day ( Metabolic Health Institute )](#2024-metabolic-health-day--metabolic-health-institute-)
 
 ## Books
 
@@ -52,9 +53,9 @@
 
 ### Reading Now
 
-### To Order
-
 - **[The Cancer Code: A Revolutionary New Understanding of a Medical Mystery](https://a.co/d/epBFEqO)**, by Jason Fung ( 4.8 / 2050 )
+
+### To Order
 
 - **[Cancer as a Metabolic Disease: On the Origin, Management, and Prevention of Cancer](https://www.amazon.com/Cancer-Metabolic-Disease-Management-Prevention/dp/0470584920/)**, by Seyfried ( 4.6 / 309 )
 
@@ -117,7 +118,6 @@ Mutation Theory?](files\metabolites-11-00572.pdf)
 - [The Moss Report](https://www.themossreport.com//)
   - On the Nasha Winters 'Metabolic Matters' podcast as a guest
 
-
 ### Reviewed
 
 - [Believe Big](https://believebig.org)
@@ -129,7 +129,7 @@ Mutation Theory?](files\metabolites-11-00572.pdf)
 - [Care Oncology](https://careoncology.com/)
   - Supplementary treatment protocols, potentially including FenBen, Metformin, and the like
   - "Jane McLelland's Off-Label Drugs for Cancer"
-  - _Surviving Termincal Cancer_ documentary by Dominick Hill.  Fought brain gioblatoma w/ off-label treatment.
+  - *Surviving Termincal Cancer* documentary by Dominick Hill.  Fought brain gioblatoma w/ off-label treatment.
 
 - [Foundation for Metabolic Cancer Therapies](https://foundationformetaboliccancertherapies.com)
   - Started by Travis Christoferson, author of 'Tripping over the Truth'
@@ -174,11 +174,12 @@ Mutation Theory?](files\metabolites-11-00572.pdf)
 ## Events
 
 ### 2024 Metabolic Health Day ( Metabolic Health Institute )
+
 - [2024 Metabolic Health Day](https://metabolic-health-day-2024.mn.co)
-- https://metabolic-health-day-2024.mn.co/posts/educational-content-some-of-our-favorite-podcast-videos
- - Recommended Podcast Sessions
-   - [Joe Rogan #2210 - Calley Means and Casey Means](https://youtu.be/G0lTyhvOeJs)
-   - [Groundbreaking Cancer Expert: This common Food is Making Cancer Worse](https://youtu.be/VaVC3PAWqLk)
-   - Huberman: What Alcohol does to your Body, Brain, and Health
-   - [Fasting for Survival Leture by Dr. Pradip Jamnadas](https://www.youtube.com/embed/RuOvn4UqznU)
-   - [Metabolic Approach to Midlife Health with Dr. Nasha Winters](https://youtu.be/ua30P3-eQ4Q)
+- <https://metabolic-health-day-2024.mn.co/posts/educational-content-some-of-our-favorite-podcast-videos>
+  - Recommended Podcast Sessions
+    - [Joe Rogan #2210 - Calley Means and Casey Means](https://youtu.be/G0lTyhvOeJs)
+    - [Groundbreaking Cancer Expert: This common Food is Making Cancer Worse](https://youtu.be/VaVC3PAWqLk)
+    - Huberman: What Alcohol does to your Body, Brain, and Health
+    - [Fasting for Survival Leture by Dr. Pradip Jamnadas](https://www.youtube.com/embed/RuOvn4UqznU)
+    - [Metabolic Approach to Midlife Health with Dr. Nasha Winters](https://youtu.be/ua30P3-eQ4Q)

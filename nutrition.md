@@ -128,7 +128,7 @@ Touted as most powerful flavinoid known to man.[1]
 
 ### Fenbendazole / FenBen
 
-- https://x.com/MakisMD/status/1845353670407233817?t=RkT_q9eTTufmm1_e46oIFQ&s=19
+- <https://x.com/MakisMD/status/1845353670407233817?t=RkT_q9eTTufmm1_e46oIFQ&s=19>
 
 - There was a comment on the Seyfried video suggesting that FenBen reduces and manages glutamine.  This needs research.
 
@@ -153,7 +153,7 @@ I bought a bag of powder Amazon which came with a 222mg spoon and I sprinkle a h
 ### pegfilgrastim-apgf
 
 - "Pegylated recombinant methionyl human cranulocyte colony-stimulating factor deried from e-coli."
--   Nasty stuff.  On it and I hate it.
+- Nasty stuff.  On it and I hate it.
 
 ## Diet and Nutrition
 
@@ -167,4 +167,5 @@ I bought a bag of powder Amazon which came with a 222mg spoon and I sprinkle a h
 - [310 Nutrition](https://310nutrition.com/)
 
 ### Glutamine
+
 - [Sloan Kettering: Beyond Sugar: What Cancer Cells Need to Grow](https://www.mskcc.org/news/beyond-sugar-what-cancer-cells-need-grow)
