@@ -3,7 +3,7 @@
 The page is specific to PNETs.  Probably not applicable to too many people. ( At least, I hope not. )
 
 - [HealingNET](https://www.thehealingnet.org/)
-  - Seems very useful. 
+  - Seems very useful.
   - A few longer articles and good resources.
   - [HIGH-GRADE NEUROENDOCRINE CANCERS: A Guide for Patients and Caregivers](./files/HealingNET-HighGradeWEB-FINAL.pdf)
 
@@ -15,3 +15,7 @@ peptide receptor radionuclide therapy (PRRT)
 
 Poorly differentiated pancreatic neuroendocrine carcinomas (pNECs) are rare, highly aggressive neoplasms
 
+## Ketogenic Diet Papers
+
+- [Metabolic intervention by low carbohydrate diet suppresses the onset and progression of neuroendocrine tumors](https://www.nature.com/articles/s41419-023-06123-1)
+- [Ketogenic diet and chemotherapy combine to disrupt pancreatic cancer metabolism and growth](https://www.sciencedirect.com/science/article/pii/S2666634021004098)
