@@ -97,7 +97,7 @@ Alternative clinic. Ohio?
   - Wrote "The Gluecose Keytone Index Calculator: A Simple Tool to Monitor Therapeutic Efficasy fro Metabolic Management of Brain Cancer"
   - Wrote [Can the Mitochondrial Metabolic Theory Explain Better the
 Origin and Management of Cancer than Can the Somatic
-Mutation Theory?](files\metabolites-11-00572.pdf)
+Mutation Theory?](files/metabolites-11-00572.pdf)
   - Wrote "Cancer as a Metabolic Disease: On the Origin, Management, and Prevention of Cancer"
   - Has a 'treatise' on mitochondrial and/or metabolic disease.  Find this!
 
@@ -133,9 +133,9 @@ Mutation Theory?](files\metabolites-11-00572.pdf)
 
 - [FLCCC: Front Line COVID-19 Critical Care Alliance](https://covid19criticalcare.com)
   - Materials from <https://covid19criticalcare.com/reviews-and-monographs/cancer-care/> are here:
-    - [Cancer Care Summary](files\2nd-Edition-CancerCare-Summary.pdf)
-    - [Cancer Care, by Dr. Marick](files\Cancer-Care-FLCCC-Dr-Paul-Marik-v2.pdf)
-    - [Cancer Care Webinare Slides](files\Cancer-Care-Webinar-1-1.pdf)
+    - [Cancer Care Summary](files/2nd-Edition-CancerCare-Summary.pdf)
+    - [Cancer Care, by Dr. Marick](files/Cancer-Care-FLCCC-Dr-Paul-Marik-v2.pdf)
+    - [Cancer Care Webinare Slides](files/Cancer-Care-Webinar-1-1.pdf)
 
 - [Foundation for Metabolic Cancer Therapies](https://foundationformetaboliccancertherapies.com)
   - Started by Travis Christoferson, author of 'Tripping over the Truth'
