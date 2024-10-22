@@ -131,6 +131,12 @@ Mutation Theory?](files\metabolites-11-00572.pdf)
   - "Jane McLelland's Off-Label Drugs for Cancer"
   - *Surviving Termincal Cancer* documentary by Dominick Hill.  Fought brain gioblatoma w/ off-label treatment.
 
+- [FLCCC: Front Line COVID-19 Critical Care Alliance](https://covid19criticalcare.com)
+  - Materials from <https://covid19criticalcare.com/reviews-and-monographs/cancer-care/> are here:
+    - [Cancer Care Summary](files\2nd-Edition-CancerCare-Summary.pdf)
+    - [Cancer Care, by Dr. Marick](files\Cancer-Care-FLCCC-Dr-Paul-Marik-v2.pdf)
+    - [Cancer Care Webinare Slides](files\Cancer-Care-Webinar-1-1.pdf)
+
 - [Foundation for Metabolic Cancer Therapies](https://foundationformetaboliccancertherapies.com)
   - Started by Travis Christoferson, author of 'Tripping over the Truth'
 

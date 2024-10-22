@@ -60,13 +60,11 @@ This antioxidant, naturally produced by the body, protects against DNA damage, e
 
 ### Curcumin ( Tumeric )
 
-Some positive results here. Doesn't seem to have any harm.
+- Some positive results here. Doesn't seem to have any harm.
 
-Should order this.
+- <https://www.cancer.gov/about-cancer/treatment/cam/patient/curcumin-pdq>
 
-<https://www.cancer.gov/about-cancer/treatment/cam/patient/curcumin-pdq>
-
-[NCI: Curcumin](https://www.cancer.gov/about-cancer/treatment/cam/hp/curcumin-pdq)
+- [NCI: Curcumin](https://www.cancer.gov/about-cancer/treatment/cam/hp/curcumin-pdq)
 
 - FLCCC:  Curcumin: (nanocurcumin) 600 mg twice daily
 
@@ -81,6 +79,8 @@ Should order this.
 ### Melatonin
 
 - FLCCC:  start 1 mg and increase to 20-30 mg nightly
+
+- [Life Extension: Melatonin - Potential Anti-Cancer Effects](https://www.lifeextension.com/magazine/2024/11/melatonins-potential-anti-cancer-effects)
 
 - NCI: Melatonin is a hormone produced endogenously that has been used as a CAM supplement (along with chemotherapy or radiation therapy) for targeting tumor activity and for reducing treatment-related symptoms, primarily for solid tumors.
 
