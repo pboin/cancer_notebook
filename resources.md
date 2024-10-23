@@ -53,8 +53,6 @@
 
 ### Reading Now
 
-- **[The Cancer Code: A Revolutionary New Understanding of a Medical Mystery](https://a.co/d/epBFEqO)**, by Jason Fung ( 4.8 / 2050 )
-
 ### To Order
 
 - **[Cancer as a Metabolic Disease: On the Origin, Management, and Prevention of Cancer](https://www.amazon.com/Cancer-Metabolic-Disease-Management-Prevention/dp/0470584920/)**, by Seyfried ( 4.6 / 309 )
@@ -62,6 +60,11 @@
 - **[The Emporer of All Maladies](https://www.amazon.com/Emperor-All-Maladies-Biography-Cancer/dp/1439170916)**, by Siddhartha Mukherjee  ( 4.7 / 9400 )
 
 ### Finished
+
+- **[The Cancer Code: A Revolutionary New Understanding of a Medical Mystery](https://a.co/d/epBFEqO)**, by Jason Fung ( 4.8 / 2050 )
+  - Good book, with a great explanation of what cancer is and how it works.
+  - Explains Somatic Mutation Theory vs. Metabolic theory.
+  - Not too many practical suggestions.  Not particularly optimistic, since it explains so much about mutations and resistance to current treatment regimens.
 
 - **[12 Keys to a Healthier Cancer Patient: Unlocking Your Body's Incredible Ability to Heal Itself While Working with Your Doctor](https://www.amazon.com/Keys-Healthier-Cancer-Patient-Incredible/dp/0578564297/)**, by Patrick Quillin ( 4.6 / 100 )
 
@@ -131,7 +134,7 @@ Mutation Theory?](files/metabolites-11-00572.pdf)
   - "Jane McLelland's Off-Label Drugs for Cancer"
   - *Surviving Termincal Cancer* documentary by Dominick Hill.  Fought brain gioblatoma w/ off-label treatment.
 
-- [FLCCC: Front Line COVID-19 Critical Care Alliance](https://covid19criticalcare.com)
+- [FLCCC: Front Line COVID-19 Critical Care Alliance](https://FLCCC.net)
   - Materials from <https://covid19criticalcare.com/reviews-and-monographs/cancer-care/> are here:
     - [Cancer Care Summary](files/2nd-Edition-CancerCare-Summary.pdf)
     - [Cancer Care, by Dr. Marick](files/Cancer-Care-FLCCC-Dr-Paul-Marik-v2.pdf)
