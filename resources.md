@@ -76,10 +76,10 @@
 
 ### Not Owned
 
+- **[]()**
+- **[How To Starve Cancer 2nd Ed., by Jane McLelland](https://www.howtostarvecancer.com/product/how-to-starve-cancer-second-edition/)**
 - **[Fight Cancer with a Ketogenic Diet, by Ellen Davis](https://www.amazon.com/Fight-Cancer-Ketogenic-Diet-Third/dp/1943721033/)** ( 4.3 / 103 )
-
 - **[Squeaky Clean Keto: Next Level Keto to Hack Your Health](https://www.amazon.com/Squeaky-Clean-Keto-Mellissa-Sevigny/dp/162860400X/)** ( 4.7 / 1250 )
-
 - **[Clean Keto Lifestyle: The Complete Guide to Transforming Your Life & Health](https://www.amazon.com/Clean-Keto-Lifestyle-Complete-Transforming/dp/1641523255/)** ( 4.4 / 659 )
 
 ## People
@@ -104,10 +104,15 @@ Mutation Theory?](files/metabolites-11-00572.pdf)
   - Wrote "Cancer as a Metabolic Disease: On the Origin, Management, and Prevention of Cancer"
   - Has a 'treatise' on mitochondrial and/or metabolic disease.  Find this!
 
+- Jane McLelland
+  - <https://www.howtostarvecancer.com/>
+
 ## Videos and Podcasts
 
 - Jerry Brunetti's 'Food as Medicine' talk from 2005.  Haven't watched it yet.
 <https://www.youtube.com/watch?v=cnxUsyLncuI> and <https://www.youtube.com/watch?v=IXH-A6Kpoho>
+
+- [Joe Tippen Protocol on 'Integrative Cancer Solutions with Dr. Karlfeldt'](https://open.spotify.com/episode/1PZa8PPYAAC2nuzxcLNdkb?si=M25I5yv3QqCjLwknnPiCiA)
 
 ## Websites
 
@@ -152,7 +157,9 @@ Mutation Theory?](files/metabolites-11-00572.pdf)
     - 185 g Fat (75%, 1668 kcal)
 
 - [Mr Lab Test](https://mrlabtest.com)
-  - Very handy reference for each type of blood lab, and what to know about it being high or low.
+  - Very handy reference for each type of blood lab, and what to know about it being high or low
+
+- [My Cancer Story Rocks, Joe Tippen](https://mycancerstory.rocks/81-2/)
 
 - [Metabolic Terrain Institute of Health](https://www.mtih.org/)
   - Dr. Nasha Winters
