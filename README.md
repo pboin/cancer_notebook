@@ -4,6 +4,8 @@ This collection of information is my personal notebook regarding cancer.  The ge
 
 This approach focuses on A) setting the metabolic terrain up for successful maintenance and B) repairing damage from chemotherapy.
 
+[Medicines](meds.md)
+
 [Nutrition](nutrition.md)
 
 [PNETs](pnets.md)

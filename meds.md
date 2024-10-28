@@ -6,7 +6,7 @@
 - Shows up on [Tippen Protocol](https://mycancerstory.rocks/81-2/) at 222mg daily.
 - <https://x.com/MakisMD/status/1845353670407233817?t=RkT_q9eTTufmm1_e46oIFQ&s=19>
 - There was a comment on the Seyfried video suggesting that FenBen reduces and manages glutamine.  This needs research.
-- Importanant [paper](./files/Targeting-the-Mitochondrial-Stem-Cell-Connection-in-Cancer-Treatment-JOM-39.3.pdf) on FenBen.
+- Important [paper](./files/Targeting-the-Mitochondrial-Stem-Cell-Connection-in-Cancer-Treatment-JOM-39.3.pdf) on FenBen.
 - [Healthline: Can Antiparasitic Drug Fenbendazole Treat Pancreatic Cancer?](https://www.healthline.com/health/pancreatic-cancer/fenbendazole-for-pancreatic-cancer#summary)
 - [Life Extension: Against All Odds](https://www.lifeextension.com/magazine/2020/1/wellness-profile)
 - Jane McLelland
