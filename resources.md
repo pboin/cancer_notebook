@@ -76,7 +76,6 @@
 
 ### Not Owned
 
-- **[]()**
 - **[How To Starve Cancer 2nd Ed., by Jane McLelland](https://www.howtostarvecancer.com/product/how-to-starve-cancer-second-edition/)**
 - **[Fight Cancer with a Ketogenic Diet, by Ellen Davis](https://www.amazon.com/Fight-Cancer-Ketogenic-Diet-Third/dp/1943721033/)** ( 4.3 / 103 )
 - **[Squeaky Clean Keto: Next Level Keto to Hack Your Health](https://www.amazon.com/Squeaky-Clean-Keto-Mellissa-Sevigny/dp/162860400X/)** ( 4.7 / 1250 )
@@ -158,6 +157,7 @@ Mutation Theory?](files/metabolites-11-00572.pdf)
 
 - [Mr Lab Test](https://mrlabtest.com)
   - Very handy reference for each type of blood lab, and what to know about it being high or low
+  - Normal AST is 20-40 while ALT is 7-56.
 
 - [My Cancer Story Rocks, Joe Tippen](https://mycancerstory.rocks/81-2/)
 

@@ -16,7 +16,6 @@ This approach focuses on A) setting the metabolic terrain up for successful main
 
 <https://isom.ca/article/targeting-the-mitochondrial-stem-cell-connection-in-cancer-treatment-a-hybrid-orthomolecular-protocol/>
 
-
 ```bash
 pandoc README.MD resources.md nutrition.md pnets.md podcasts.md -t docx -o cancer_notebook.docx
 ```
