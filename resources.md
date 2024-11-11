@@ -6,7 +6,6 @@
     - [Reading Now](#reading-now)
     - [To Order](#to-order)
     - [Finished](#finished)
-    - [Ordered](#ordered)
     - [Not Owned](#not-owned)
   - [People](#people)
   - [Videos and Podcasts](#videos-and-podcasts)
@@ -53,6 +52,8 @@
 
 ### Reading Now
 
+- **[How To Starve Cancer 2nd Ed., by Jane McLelland](https://www.howtostarvecancer.com/product/how-to-starve-cancer-second-edition/)**
+
 ### To Order
 
 - **[Cancer as a Metabolic Disease: On the Origin, Management, and Prevention of Cancer](https://www.amazon.com/Cancer-Metabolic-Disease-Management-Prevention/dp/0470584920/)**, by Seyfried ( 4.6 / 309 )
@@ -60,6 +61,9 @@
 - **[The Emporer of All Maladies](https://www.amazon.com/Emperor-All-Maladies-Biography-Cancer/dp/1439170916)**, by Siddhartha Mukherjee  ( 4.7 / 9400 )
 
 ### Finished
+
+- **[Radical Remission: Surviving Cancer Against All Odds](https://www.amazon.com/Radical-Remission-Surviving-Cancer-Against/dp/0062268740)**, by Kelly Turner, Ph.D ( 4.7 / 3900)
+  - Very broad, covering many aspects of life with cancer.
 
 - **[The Cancer Code: A Revolutionary New Understanding of a Medical Mystery](https://a.co/d/epBFEqO)**, by Jason Fung ( 4.8 / 2050 )
   - Good book, with a great explanation of what cancer is and how it works.
@@ -72,13 +76,12 @@
   - A decent referece on good general nutrition.  Some repeated material.
   - Includes the '5x5x5 framework' to get started and has plenty of recipes.
 
-### Ordered
-
 ### Not Owned
 
-- **[How To Starve Cancer 2nd Ed., by Jane McLelland](https://www.howtostarvecancer.com/product/how-to-starve-cancer-second-edition/)**
 - **[Fight Cancer with a Ketogenic Diet, by Ellen Davis](https://www.amazon.com/Fight-Cancer-Ketogenic-Diet-Third/dp/1943721033/)** ( 4.3 / 103 )
+
 - **[Squeaky Clean Keto: Next Level Keto to Hack Your Health](https://www.amazon.com/Squeaky-Clean-Keto-Mellissa-Sevigny/dp/162860400X/)** ( 4.7 / 1250 )
+
 - **[Clean Keto Lifestyle: The Complete Guide to Transforming Your Life & Health](https://www.amazon.com/Clean-Keto-Lifestyle-Complete-Transforming/dp/1641523255/)** ( 4.4 / 659 )
 
 ## People

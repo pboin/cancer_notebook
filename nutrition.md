@@ -13,14 +13,6 @@
     - [Probiotics](#probiotics)
     - [Turkey Tail Mushrooms](#turkey-tail-mushrooms)
     - [Quercitin](#quercitin)
-  - [Meds](#meds)
-    - [Fenbendazole / FenBen](#fenbendazole--fenben)
-    - [Ivermectin](#ivermectin)
-    - [pegfilgrastim-apgf](#pegfilgrastim-apgf)
-  - [Diet and Nutrition](#diet-and-nutrition)
-    - [Keto](#keto)
-    - [Shakes](#shakes)
-    - [Glutamine](#glutamine)
 
 ## Supplements
 
@@ -123,4 +115,3 @@ Touted as most powerful flavinoid known to man.[1]
   - "Quercetin belongs to a family of compounds called bioflavonoids, which are largely responsible for the bright colors and medicinal activities of many plants. Quercetin is the most common bioflavonoid that people consume, and is the most active of the bioflavonoids in laboratory experiments. It is known to act as an antioxidant, neutralizing free radicals that can cause cellular and DNA damage. Quercetin is thought to have anti-inflammatory properties by inhibiting the release of substances that mediate the inflammatory response, such as histamine. Presently, considerable laboratory data support the concept of quercetin as an anticancer compound, but it is still unclear from clinical trials whether this effect occurs in the human body.
 
   Because of its antioxidant effects, quercetin may interfere with the actions of certain chemotherapy drugs."
-
