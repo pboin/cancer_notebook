@@ -12,6 +12,8 @@
   - [Websites](#websites)
     - [To Check Out](#to-check-out)
     - [Reviewed](#reviewed)
+      - [Testing and Genetics](#testing-and-genetics)
+      - [Doctor Networks and Organizations](#doctor-networks-and-organizations)
   - [Events](#events)
     - [2024 Metabolic Health Day ( Metabolic Health Institute )](#2024-metabolic-health-day--metabolic-health-institute-)
 
@@ -109,13 +111,15 @@ Mutation Theory?](files/metabolites-11-00572.pdf)
 - Jane McLelland
   - <https://www.howtostarvecancer.com/>
 
+- [Joe Tippens](https://www.facebook.com/groups/244815949755622/user/516066307/)
+
 ## Videos and Podcasts
 
 - Jerry Brunetti's 'Food as Medicine' talk from 2005.  Haven't watched it yet.
 <https://www.youtube.com/watch?v=cnxUsyLncuI> and <https://www.youtube.com/watch?v=IXH-A6Kpoho>
 
 - [Joe Tippen Protocol on 'Integrative Cancer Solutions with Dr. Karlfeldt'](https://open.spotify.com/episode/1PZa8PPYAAC2nuzxcLNdkb?si=M25I5yv3QqCjLwknnPiCiA)
-
+  
 ## Websites
 
 ### To Check Out
@@ -136,17 +140,6 @@ Mutation Theory?](files/metabolites-11-00572.pdf)
   - HQ is in Hunt Valley, MD
   - From Tappan
 
-- [Care Oncology](https://careoncology.com/)
-  - Supplementary treatment protocols, potentially including FenBen, Metformin, and the like
-  - "Jane McLelland's Off-Label Drugs for Cancer"
-  - *Surviving Termincal Cancer* documentary by Dominick Hill.  Fought brain gioblatoma w/ off-label treatment.
-
-- [FLCCC: Front Line COVID-19 Critical Care Alliance](https://FLCCC.net)
-  - Materials from <https://covid19criticalcare.com/reviews-and-monographs/cancer-care/> are here:
-    - [Cancer Care Summary](files/2nd-Edition-CancerCare-Summary.pdf)
-    - [Cancer Care, by Dr. Marick](files/Cancer-Care-FLCCC-Dr-Paul-Marik-v2.pdf)
-    - [Cancer Care Webinare Slides](files/Cancer-Care-Webinar-1-1.pdf)
-
 - [Foundation for Metabolic Cancer Therapies](https://foundationformetaboliccancertherapies.com)
   - Started by Travis Christoferson, author of 'Tripping over the Truth'
 
@@ -163,9 +156,6 @@ Mutation Theory?](files/metabolites-11-00572.pdf)
   - Normal AST is 20-40 while ALT is 7-56.
 
 - [My Cancer Story Rocks, Joe Tippen](https://mycancerstory.rocks/81-2/)
-
-- [Metabolic Terrain Institute of Health](https://www.mtih.org/)
-  - Dr. Nasha Winters
 
 - [National Comprehensive Cancer Network](https://www.nccn.org)
   - Lots of detailed information and guides, tailored to specific cancer types.
@@ -185,7 +175,75 @@ Mutation Theory?](files/metabolites-11-00572.pdf)
 - [Neuroendocrine Cancer Awareness Network](https://netcancerawareness.org/nccn-guidelines/)
   - Seems lame and old. Too bad.
 
- ***
+- [Williams Cancer Institute](https://williamscancerinstitute.com/)
+  - Seems to do cyber-knife style debulking.
+
+#### Testing and Genetics
+
+- [RGCC: Research Genetic Cancer Center](https://myrgcc.com/)
+  - Measures 'circulating tumor cells' and 'circulating stem cells'.
+  - Does a genetic analysis of cancer markers and will test cancer's sensitivity
+    to a variety of natural and chemo agents.  Also gives treatment recommendations
+    based on genetics of cancer.
+  - ![alt text](291086168_133208666059904_290948550422893092_n.jpg)
+  - Tippens himself doesn't say RGCC is credible:  
+  "Their chemosensitivity test involves extracting the "5-200" circulating tumour
+  cells (CTCs) from the 25mL of blood submitted, and culturing those approximately
+  100 cells up to a population of "trillions" in "just 24-36 hours". Finding the
+  "5-200" needles in the haystack that is a 25mL blood sample, would be very, very
+  difficult, but not impossible. Whereas producing "trillions" of cancer cells
+  from approximately 100 cells in "just 24-36 hours" is completely impossible. He
+  claims he can speed that up to 20 minutes (from one day) and based on the
+  research I've done, I find that highly unlikely. If anyone can show me research
+  or proof that it is possible, I'd love to see it. Cancer cell-lines are well
+  known, their typical doubling-time is approximately daily, i.e. the number of
+  cells doubles every 24 hours: if you started with 100 cells, after 1 day you'd
+  have 200 cells, after 2 days 400, after 3 days 800, et cetera. It would take 34
+  days to reach a "trillion" cells. (In 2013 a laboratory grew a few cow-muscle
+  cells into a beef-burger: the quarter-pounder only contained about 1/10th of a
+  trillion cells, but took three months to grow in the lab and cost over $300K.
+  A blood test will not detect tumor cells unless it is a blood-borne cancer
+  (generally leukemia or lymphoma), or the cancer has metastasized into the blood
+  from its original organ. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5060940/>"
+  - "The RGCC test is bullshit! I paid for the all of their text for a year..
+  at follow up it told me my circulating tumor cell count went down
+  drastically.. shortly after I went to stage 4 with tumors in several spots.."
+
+#### Doctor Networks and Organizations
+
+- [American College for Advancement in Medicine](acam.org)
+  - Found [L.J. Leo, DO](https://www.acam.org/members/?id=45874423#), in Rockville, MD.
+  - <https://www.todaysintegrativehealth.com/>
+  - L.J. Leo, DO, DC is a Graduate of MTIH, Metabolic Approach to Cancer.
+
+- [Care Oncology](https://careoncology.com/)
+  - Supplementary treatment protocols, potentially including FenBen, Metformin, and the like
+  - "Jane McLelland's Off-Label Drugs for Cancer"
+  - *Surviving Termincal Cancer* documentary by Dominick Hill.  Fought brain gioblatoma w/ off-label treatment.
+
+- [FABNO: Oncology Association of Naturopathic Physicians](https://www.oncanp.org/)
+  - Stephany Porter, the Bodhi Clinic in Columbia, MD.
+  - <https://www.bodhiclinic.com/>
+
+- [FLCCC: Front Line COVID-19 Critical Care Alliance](https://FLCCC.net)
+  - Materials from <https://covid19criticalcare.com/reviews-and-monographs/cancer-care/> are here:
+    - [Cancer Care Summary](files/2nd-Edition-CancerCare-Summary.pdf)
+    - [Cancer Care, by Dr. Marick](files/Cancer-Care-FLCCC-Dr-Paul-Marik-v2.pdf)
+    - [Cancer Care Webinare Slides](files/Cancer-Care-Webinar-1-1.pdf)
+
+- [Integrative Medicine & Muscle Testing Workshop](https://www.acimconnect.com/)
+  - Refered as integrative in *Cancer Revolution*, but the content is all about muscles.'
+
+- [Metabolic Terrain Institute of Health](https://www.mtih.org/)
+  - Dr. Nasha Winters
+  
+- [~~International Organization of Integrative Cancer Physicians~~](www.ioicp.com)
+  - Dead website.
+  
+- [~~Best Answer for Cancer~~](www.bestanswerforcancer.org)
+  - Dead website.
+
+***
 
 - <https://angio.org/>
 
