@@ -185,7 +185,7 @@ Mutation Theory?](files/metabolites-11-00572.pdf)
   - Does a genetic analysis of cancer markers and will test cancer's sensitivity
     to a variety of natural and chemo agents.  Also gives treatment recommendations
     based on genetics of cancer.
-  - ![alt text](291086168_133208666059904_290948550422893092_n.jpg)
+  - ![alt text](/images/291086168_133208666059904_290948550422893092_n.jpg)
   - Tippens himself doesn't say RGCC is credible:  
   "Their chemosensitivity test involves extracting the "5-200" circulating tumour
   cells (CTCs) from the 25mL of blood submitted, and culturing those approximately
