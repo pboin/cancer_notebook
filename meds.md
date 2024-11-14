@@ -1,6 +1,6 @@
-## Meds
+# Meds
 
-### Fenbendazole / FenBen
+## Fenbendazole / FenBen
 
 - Shows up on the FLCCC Protocol as sister-substance Mebendazole, at 100-200mg daily.
 - Shows up on [Tippen Protocol](https://mycancerstory.rocks/81-2/) at 222mg daily.
@@ -10,6 +10,8 @@
 - [Healthline: Can Antiparasitic Drug Fenbendazole Treat Pancreatic Cancer?](https://www.healthline.com/health/pancreatic-cancer/fenbendazole-for-pancreatic-cancer#summary)
 - [Life Extension: Against All Odds](https://www.lifeextension.com/magazine/2020/1/wellness-profile)
 - Jane McLelland
+- [European Medicines Agency: CVMP assessment report for Panacur AquaSol](https://www.ema.europa.eu/en/documents/variation-report/panacur-aquasol-v-c-2008-x-03-epar-assessment-report-extension_en.pdf)
+
 ***
 
 Karl Denninger:  "Only thing for me was/is FenBen(dog dewormer). Im convinced. Hopefully, the 27th cancer doc will say again we see nothing and you have escaped the reaper.
@@ -22,13 +24,11 @@ I bought a bag of powder Amazon which came with a 222mg spoon and I sprinkle a h
 
 ***
 
-
-
-### Ivermectin
+## Ivermectin
 
 <https://x.com/MakisMD/status/1828024388580503589?t=ezQB3rqo63oAhGC83EutuA&s=19>
 
-### pegfilgrastim-apgf
+## pegfilgrastim-apgf
 
 - "Pegylated recombinant methionyl human cranulocyte colony-stimulating factor deried from e-coli."
 - Nasty stuff.  On it and I hate it.
