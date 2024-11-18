@@ -28,6 +28,8 @@ I bought a bag of powder Amazon which came with a 222mg spoon and I sprinkle a h
 
 <https://x.com/MakisMD/status/1828024388580503589?t=ezQB3rqo63oAhGC83EutuA&s=19>
 
+[NIH: The multitargeted drug ivermectin: from an antiparasitic agent to a repositioned cancer drug](https://pmc.ncbi.nlm.nih.gov/articles/PMC5835698/#b47)
+
 ## pegfilgrastim-apgf
 
 - "Pegylated recombinant methionyl human cranulocyte colony-stimulating factor deried from e-coli."
