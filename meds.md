@@ -2,8 +2,7 @@
 
 ## Fenbendazole / FenBen
 
-- <
-https://www.fenbendazole.org/>
+- <https://www.fenbendazole.org/>
 - Shows up on the FLCCC Protocol as sister-substance Mebendazole, at 100-200mg daily.
 - Shows up on [Tippen Protocol](https://mycancerstory.rocks/81-2/) at 222mg daily.
 - <https://x.com/MakisMD/status/1845353670407233817?t=RkT_q9eTTufmm1_e46oIFQ&s=19>
