@@ -92,6 +92,10 @@ Several studies have shown tumor response to, or disease control with, chemother
 - " Strong research has shown that probiotic supplementation during radiation therapy, chemotherapy, or both is well tolerated and can help prevent radiation- and chemotherapy-induced diarrhea, especially in those receiving radiation to the abdomen.[14-16] If a patient is undergoing radiation to the abdomen or receiving a chemotherapy agent with diarrhea as a common side effect, starting a probiotic supplement upon initiation of therapy could be beneficial. Evidence is also emerging for possible benefits of probiotics for immunotherapy-induced toxicities, particularly in the colon."
 
   - Badgeley A, Anwar H, Modi K, et al.: Effect of probiotics and gut microbiota on anti-cancer drugs: Mechanistic perspectives. Biochim Biophys Acta Rev Cancer 1875 (1): 188494, 2021. [PUBMED Abstract](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=33346129&dopt=Abstract)
+ 
+### TUDCA
+
+- <https://www.drberg.com/blog/the-benefits-of-tudca>
 
 ### Turkey Tail Mushrooms
 
