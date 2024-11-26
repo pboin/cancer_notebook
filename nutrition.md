@@ -13,6 +13,10 @@
     - [Probiotics](#probiotics)
     - [Turkey Tail Mushrooms](#turkey-tail-mushrooms)
     - [Quercitin](#quercitin)
+  - [Diet](#diet)
+    - [Keto](#keto)
+    - [Shakes](#shakes)
+    - [Glutamine](#glutamine)
 
 ## Supplements
 
@@ -115,3 +119,22 @@ Touted as most powerful flavinoid known to man.[1]
   - "Quercetin belongs to a family of compounds called bioflavonoids, which are largely responsible for the bright colors and medicinal activities of many plants. Quercetin is the most common bioflavonoid that people consume, and is the most active of the bioflavonoids in laboratory experiments. It is known to act as an antioxidant, neutralizing free radicals that can cause cellular and DNA damage. Quercetin is thought to have anti-inflammatory properties by inhibiting the release of substances that mediate the inflammatory response, such as histamine. Presently, considerable laboratory data support the concept of quercetin as an anticancer compound, but it is still unclear from clinical trials whether this effect occurs in the human body.
 
   Because of its antioxidant effects, quercetin may interfere with the actions of certain chemotherapy drugs."
+
+## Diet
+
+### Keto
+
+- Ketogenic Periodic Diet, by Natalie Daniels
+  - <https://www.instagram.com/ancestralcarnivore/>
+  - <https://nataliedaniels.me/products/p/natalies-pkd-kitchen>
+
+[NCI: Ketogenic Diet](https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss/nutrition-hp-pdq#_250_toc)
+
+### Shakes
+
+- [Kachava](https://www.kachava.com/products/shakes)
+- [310 Nutrition](https://310nutrition.com/)
+
+### Glutamine
+
+- [Sloan Kettering: Beyond Sugar: What Cancer Cells Need to Grow](https://www.mskcc.org/news/beyond-sugar-what-cancer-cells-need-grow)

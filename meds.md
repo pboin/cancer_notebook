@@ -1,5 +1,13 @@
 # Meds
 
+- [Meds](#meds)
+  - [Fenbendazole / FenBen](#fenbendazole--fenben)
+  - [FOLFIRINIOX](#folfiriniox)
+  - [Ivermectin](#ivermectin)
+  - [OLAPARIB](#olaparib)
+  - [pegfilgrastim-apgf](#pegfilgrastim-apgf)
+
+
 ## Fenbendazole / FenBen
 
 - Shows up on the FLCCC Protocol as sister-substance Mebendazole, at 100-200mg daily.
@@ -23,29 +31,21 @@ I bought a bag of powder Amazon which came with a 222mg spoon and I sprinkle a h
 <https://market-ticker.org/akcs-www?post=251846&page=4>
 
 ***
+## FOLFIRINIOX
+
+- Fluorouracil, leucovorin, irinotecan, and oxaliplatin
 
 ## Ivermectin
 
-<https://x.com/MakisMD/status/1828024388580503589?t=ezQB3rqo63oAhGC83EutuA&s=19>
+- <https://x.com/MakisMD/status/1828024388580503589?t=ezQB3rqo63oAhGC83EutuA&s=19>
 
-[NIH: The multitargeted drug ivermectin: from an antiparasitic agent to a repositioned cancer drug](https://pmc.ncbi.nlm.nih.gov/articles/PMC5835698/#b47)
+- [NIH: The multitargeted drug ivermectin: from an antiparasitic agent to a repositioned cancer drug](https://pmc.ncbi.nlm.nih.gov/articles/PMC5835698/#b47)
+
+## OLAPARIB
+
+- [Maintenance Olaparib for Germline BRCA-Mutated Metastatic Pancreatic Cancer](https://www.nejm.org/doi/full/10.1056/NEJMoa1903387)
 
 ## pegfilgrastim-apgf
 
 - "Pegylated recombinant methionyl human cranulocyte colony-stimulating factor deried from e-coli."
 - Nasty stuff.  On it and I hate it.
-
-## Diet and Nutrition
-
-### Keto
-
-[NCI: Ketogenic Diet](https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss/nutrition-hp-pdq#_250_toc)
-
-### Shakes
-
-- [Kachava](https://www.kachava.com/products/shakes)
-- [310 Nutrition](https://310nutrition.com/)
-
-### Glutamine
-
-- [Sloan Kettering: Beyond Sugar: What Cancer Cells Need to Grow](https://www.mskcc.org/news/beyond-sugar-what-cancer-cells-need-grow)
