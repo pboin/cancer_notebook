@@ -21,7 +21,9 @@
 
 ## Supplements
 
-[FLCCC: 12 Metabolic Interventions to Control Cancer](https://dev.flccc.net/tools-and-guides/12-metabolic-interventions-to-control-cancer/)
+- [100+ Supplement/Vitamin Brands Bought Out By Large Companies](https://cleanlivingmomblog.com/100-supplement-vitamin-brands-bought-out-by-large-companies/)
+
+- [FLCCC: 12 Metabolic Interventions to Control Cancer](https://dev.flccc.net/tools-and-guides/12-metabolic-interventions-to-control-cancer/)
 
 ![4b069458a2b7f9677a6a45daeea1de1f.png](:/7c12a22274ab4ce8b1ee4402e9d2a55c)
 
@@ -116,7 +118,7 @@ Touted as most powerful flavinoid known to man.[1]
 
 - <https://www.cancer.gov/about-cancer/treatment/cam/patient/dietary-interactions-pdq>
 
-  - " Quercetin is the most common bioflavonoid that people consume, and is the most active of the bioflavonoids in laboratory experiments. It is known to act as an antioxidant, neutralizing free radicals that can cause cellular and DNA damage. Quercetin is thought to have anti-inflammatory properties by inhibiting the release of substances that mediate the inflammatory response, such as histamine. Presently, considerable laboratory data support the concept of quercetin as an anticancer compound, but it is still unclear from clinical trials whether this effect occurs in the human body. Because of its antioxidant effects, quercetin may interfere with the actions of certain chemotherapy drugs." <https://www.mskcc.org/cancer-care/integrative-medicine/herbs/quercetin>
+  - " Quercetin is the most common bioflavonoid that people consume, and is the most active of the bioflavonoids in laboratory experiments. It is known to act as an antioxidant, neutralizing free radicals that can cause cellular and DNA damage. Quercetin is thought to have anti-inflammatory properties by inhibiting the release of substances that mediate the inflammatory response, such as histamine. Presently, considerable laboratory data support the concept of quercetin as an anticancer compound, but it is still unclear from clinical trials whether this effect occurs in the human body. **Because of its antioxidant effects, quercetin may interfere with the actions of certain chemotherapy drugs.**" <https://www.mskcc.org/cancer-care/integrative-medicine/herbs/quercetin>
 
 - Read this: <https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1077531/full>
 
