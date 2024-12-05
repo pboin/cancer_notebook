@@ -8,7 +8,6 @@
     - [Finished](#finished)
     - [Not Owned](#not-owned)
   - [People](#people)
-  - [Videos and Podcasts](#videos-and-podcasts)
   - [Websites](#websites)
     - [To Check Out](#to-check-out)
     - [Reviewed](#reviewed)
@@ -113,12 +112,7 @@ Mutation Theory?](files/metabolites-11-00572.pdf)
 
 - [Joe Tippens](https://www.facebook.com/groups/244815949755622/user/516066307/)
 
-## Videos and Podcasts
 
-- Jerry Brunetti's 'Food as Medicine' talk from 2005.  Haven't watched it yet.
-<https://www.youtube.com/watch?v=cnxUsyLncuI> and <https://www.youtube.com/watch?v=IXH-A6Kpoho>
-
-- [Joe Tippen Protocol on 'Integrative Cancer Solutions with Dr. Karlfeldt'](https://open.spotify.com/episode/1PZa8PPYAAC2nuzxcLNdkb?si=M25I5yv3QqCjLwknnPiCiA)
   
 ## Websites
 

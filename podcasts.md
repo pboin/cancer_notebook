@@ -9,6 +9,11 @@
 
 # Specific Episode Notes
 
+- Jerry Brunetti's 'Food as Medicine' talk from 2005.  Haven't watched it yet.
+<https://www.youtube.com/watch?v=cnxUsyLncuI> and <https://www.youtube.com/watch?v=IXH-A6Kpoho>
+
+- [Joe Tippen Protocol on 'Integrative Cancer Solutions with Dr. Karlfeldt'](https://open.spotify.com/episode/1PZa8PPYAAC2nuzxcLNdkb?si=M25I5yv3QqCjLwknnPiCiA)
+
 - [Kresser Revolution Health Podcast: Dr. Apfel and the SAGE Oncotest](https://chriskresser.com/revolutionizing-cancer-treatment-with-dr-chris-apfel/)
   - The SAGE Oncotest takes biopsy material, splits it, them applies a full panel of treatments -- just like we've done with bacteria for decades.  Interesting podcast.
   - <http://media.blubrry.com/thehealthyskeptic/traffic.libsyn.com/thehealthyskeptic/RHR_with_Chris_Apfel_EDIT.mp3>
