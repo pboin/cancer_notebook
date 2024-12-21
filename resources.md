@@ -137,6 +137,8 @@ Mutation Theory?](files/metabolites-11-00572.pdf)
 - [Foundation for Metabolic Cancer Therapies](https://foundationformetaboliccancertherapies.com)
   - Started by Travis Christoferson, author of 'Tripping over the Truth'
 
+- [Life Extension: Pancreatic Cancer Overview](https://www.lifeextension.com/protocols/cancer/pancreatic)
+
 - [Keto Calculator](https://keto-calculator.ankerl.com/)
   - Very good analysis of starting keto macros
   - For me:
