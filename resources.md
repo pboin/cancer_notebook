@@ -112,8 +112,6 @@ Mutation Theory?](files/metabolites-11-00572.pdf)
 
 - [Joe Tippens](https://www.facebook.com/groups/244815949755622/user/516066307/)
 
-
-  
 ## Websites
 
 ### To Check Out

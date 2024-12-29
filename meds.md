@@ -10,8 +10,7 @@
 ## Fenbendazole / FenBen
 
 - [Fenbendazole Joe Tippens Protocol: A Step-by-Step Guide (2024)
-By Dr. Frank Yap, MD - November 24, 2024
-](https://www.onedaymd.com/2024/04/fenbendazole-joe-tippens-protocol.html?m=1)
+By Dr. Frank Yap, MD - November 24, 2024](https://www.onedaymd.com/2024/04/fenbendazole-joe-tippens-protocol.html?m=1)
 - <https://www.fenbendazole.org/>
 - Shows up on the FLCCC Protocol as sister-substance Mebendazole, at 100-200mg daily.
 - Shows up on [Tippen Protocol](https://mycancerstory.rocks/81-2/) at 222mg daily.
