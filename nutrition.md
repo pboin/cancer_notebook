@@ -8,6 +8,7 @@
     - [D3](#d3)
     - [Curcumin ( Tumeric )](#curcumin--tumeric-)
     - [Green Tea](#green-tea)
+    - [K2](#k2)
     - [Melatonin](#melatonin)
     - [N-acetylcysteine ( NAC )](#n-acetylcysteine--nac-)
     - [Probiotics](#probiotics)
@@ -74,6 +75,11 @@ This antioxidant, naturally produced by the body, protects against DNA damage, e
 - FLCCC: Green tea catechins: 500-1,000 mg daily
 
 - [NIH:  Beneficial Properties of Green Tea Catechins](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7084675/)
+
+### K2
+
+- K2(MK7) mentioned by Nasha Winters on page 210 of _Metabolic Approach to Cancer_
+- Kalmian suggests that K2 helps convert calcium into bone structure.  Calls for MK7 on page 243 of _Keto for Cancer_.
 
 ### Melatonin
 
