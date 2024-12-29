@@ -3,6 +3,7 @@
 - [Nutrition](#nutrition)
   - [Supplements](#supplements)
     - [Berberine](#berberine)
+    - [Black Seed Oil](#black-seed-oil)
     - [CoQ10](#coq10)
     - [Curcumin](#curcumin)
     - [D3](#d3)
@@ -41,6 +42,11 @@ Warns about antioxidants.
 ### Berberine
 
 FLCCC:  Berberine: 500-600 mg twice daily
+
+### Black Seed Oil
+
+- [Kresser: Top 3 Nutrients for Fighting Inflammation and Autoimmunity](https://chriskresser.com/top-3-nutrients-for-fighting-inflammation-and-autoimmunity/)
+- [Thymoquin](https://www.trinutra.com/thymoquin)
 
 ### CoQ10
 
