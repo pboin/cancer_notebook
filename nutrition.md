@@ -47,6 +47,7 @@ FLCCC:  Berberine: 500-600 mg twice daily
 
 - [Kresser: Top 3 Nutrients for Fighting Inflammation and Autoimmunity](https://chriskresser.com/top-3-nutrients-for-fighting-inflammation-and-autoimmunity/)
 - [Thymoquin](https://www.trinutra.com/thymoquin)
+- [NIH PubMed:  Nutritional Value and Preventive Role of Nigella sativa L. and Its Main Component Thymoquinone in Cancer: An Evidenced-Based Review of Preclinical and Clinical Studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC8067617/)
 
 ### CoQ10
 
