@@ -15,7 +15,7 @@
     - [Probiotics](#probiotics)
     - [TUDCA](#tudca)
     - [Turkey Tail Mushrooms](#turkey-tail-mushrooms)
-    - [Quercitin](#quercitin)
+    - [Quercetin](#quercetin)
   - [Diet](#diet)
     - [Keto](#keto)
     - [Shakes](#shakes)
@@ -121,7 +121,7 @@ Several studies have shown tumor response to, or disease control with, chemother
 
 <https://www.cancer.gov/about-cancer/treatment/cam/patient/mushrooms-pdq>
 
-### Quercitin
+### Quercetin
 
 Found in capers, green tea, apples, and onions.  Blueberries, black currants, black elderberries, and lingonberries.[1]
 
