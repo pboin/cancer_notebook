@@ -99,6 +99,7 @@ Alternative clinic. Ohio?
 - [Chris Wark: Chris Beat Cancer](https://www.chrisbeatcancer.com/)
 
 - [Dr. Seyfried](https://tomseyfried.com/)
+  - Long-form interview that seems to cover everything Seyfried knows. Very, very good.  [The Cancer Expert: "This Common Food Is Making Cancer Worse!"](https://www.youtube.com/watch?v=VaVC3PAWqLk)
   - Big into the glucose-keytone index ( GKI )
   - Wrote "The Gluecose Keytone Index Calculator: A Simple Tool to Monitor Therapeutic Efficasy fro Metabolic Management of Brain Cancer"
   - Wrote [Can the Mitochondrial Metabolic Theory Explain Better the
