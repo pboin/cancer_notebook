@@ -1,16 +1,17 @@
 hi# Meds
 
-- [Meds](#meds)
-  - [Fenbendazole / FenBen](#fenbendazole--fenben)
-  - [FOLFIRINIOX](#folfiriniox)
-  - [Ivermectin](#ivermectin)
-  - [OLAPARIB](#olaparib)
-  - [pegfilgrastim-apgf](#pegfilgrastim-apgf)
+- [Fenbendazole / FenBen](#fenbendazole--fenben)
+- [FOLFIRINIOX](#folfiriniox)
+- [Ipi-Novo](#ipi-novo)
+- [Ivermectin](#ivermectin)
+- [OLAPARIB](#olaparib)
+- [pegfilgrastim-apgf](#pegfilgrastim-apgf)
 
 ## Fenbendazole / FenBen
 
 - [Fenbendazole Joe Tippens Protocol: A Step-by-Step Guide (2024)
 By Dr. Frank Yap, MD - November 24, 2024](https://www.onedaymd.com/2024/04/fenbendazole-joe-tippens-protocol.html?m=1)
+- Dr. John Campbell on YouTube: [Fen ben for cancer?](https://www.youtube.com/watch?v=5Q5QjEPGNNg)
 - <https://www.fenbendazole.org/>
 - Shows up on the FLCCC Protocol as sister-substance Mebendazole, at 100-200mg daily.
 - Shows up on [Tippen Protocol](https://mycancerstory.rocks/81-2/) at 222mg daily.

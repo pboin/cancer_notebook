@@ -148,7 +148,9 @@ Touted as most powerful flavinoid known to man.[1]
   - <https://www.instagram.com/ancestralcarnivore/>
   - <https://nataliedaniels.me/products/p/natalies-pkd-kitchen>
 
-[NCI: Ketogenic Diet](https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss/nutrition-hp-pdq#_250_toc)
+- [NCI: Ketogenic Diet](https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss/nutrition-hp-pdq#_250_toc)
+
+- [NIH:  Potential Health Benefits of the Ketogenic Diet: A Narrative Review](https://pubmed.ncbi.nlm.nih.gov/34068325/)
 
 ### Shakes
 
