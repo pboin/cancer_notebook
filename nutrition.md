@@ -115,6 +115,7 @@ Several studies have shown tumor response to, or disease control with, chemother
 
 ### TUDCA
 
+- [TUDCA may inhibit apoptosis.](https://pubmed.ncbi.nlm.nih.gov/12721362/)
 - <https://www.drberg.com/blog/the-benefits-of-tudca>
 
 ### Turkey Tail Mushrooms
