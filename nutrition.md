@@ -145,6 +145,8 @@ Touted as most powerful flavinoid known to man.[1]
 
 ### Keto
 
+- Reddit: [r/keto FAQ](https://www.reddit.com/r/keto/wiki/faq/)
+
 - Ketogenic Periodic Diet, by Natalie Daniels
   - <https://www.instagram.com/ancestralcarnivore/>
   - <https://nataliedaniels.me/products/p/natalies-pkd-kitchen>
