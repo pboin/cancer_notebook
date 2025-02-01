@@ -81,4 +81,3 @@ Mutation Theory?](https://pmc.ncbi.nlm.nih.gov/articles/PMC8467939/pdf/metabolit
 **NOTE:  These are not researched, validated, or vetted.  You'd be crazy to try them -- just sayin'.
 
 - <https://www.off-scriptrx.com/>
-- 
