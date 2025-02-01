@@ -145,6 +145,8 @@ Touted as most powerful flavinoid known to man.[1]
 
 ### Keto
 
+- [Dr. Ken Berry:  Keto for Cancer is Real](https://www.youtube.com/watch?v=D4VJREqj99U)
+
 - Reddit: [r/keto FAQ](https://www.reddit.com/r/keto/wiki/faq/)
 
 - Ketogenic Periodic Diet, by Natalie Daniels

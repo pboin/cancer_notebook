@@ -8,9 +8,18 @@
     - [Finished](#finished)
     - [Not Owned](#not-owned)
   - [People](#people)
+    - [Dr. Piere Kory](#dr-piere-kory)
+    - [Jane McLelland](#jane-mclelland)
+    - [Dr. Patrick Quillin](#dr-patrick-quillin)
+    - [Dr. Del Rivero](#dr-del-rivero)
+    - [Dr. Thomas Seyfried](#dr-thomas-seyfried)
+    - [Joe Tippens](#joe-tippens)
+    - [Chris Wark](#chris-wark)
   - [Websites](#websites)
     - [To Check Out](#to-check-out)
     - [Reviewed](#reviewed)
+      - [Metabolic-Oriented Care and Providers](#metabolic-oriented-care-and-providers)
+      - [Integrative and Functional Medicine](#integrative-and-functional-medicine)
       - [Testing and Genetics](#testing-and-genetics)
       - [Doctor Networks and Organizations](#doctor-networks-and-organizations)
   - [Events](#events)
@@ -87,16 +96,33 @@
 
 ## People
 
-Additionally, I would like to acknowledge the authors of several books on metabolic oncology that were very useful in guiding my thinking. These include Thomas Seyfried (Cancer as a Metabolic Disease), Otto Warburg (The Metabolism of Tumors), Jane McLelland (How to Starve Cancer), Travis Christofferson (Tripping over the Truth), and Nasha Winter and Jess Higgins
-Kelley (The Metabolic Approach to Cancer: Integrating deep nutrition, the ketogenic diet, and nontoxic bio-individualized therapies). I am also grateful for groups like Anticancer Fund and the Repurposing Drugs in Oncology (ReDO) (Cancer-Care-2024-03-29-v1.pdf)
-
-- [Dr. Patrick Quillin](https://gettinghealthier.com/dr-patrick-quillin-phd/)
-Wrote the green nutrition book
-
 - [James Clinic](https://jamesclinic.com/cancer/)
 Alternative clinic. Ohio?
 
-- [Chris Wark: Chris Beat Cancer](https://www.chrisbeatcancer.com/)
+### Dr. Piere Kory
+
+<https://drpierrekory.com/adjunctive-cancer-care>
+
+### Jane McLelland
+
+Famous for beating cancer via 'starvation'.
+
+<https://www.howtostarvecancer.com/>
+
+### Dr. Patrick Quillin
+
+Wrote the green nutrition book
+
+"Additionally, I would like to acknowledge the authors of several books on metabolic oncology that were very useful in guiding my thinking. These include Thomas Seyfried (Cancer as a Metabolic Disease), Otto Warburg (The Metabolism of Tumors), Jane McLelland (How to Starve Cancer), Travis Christofferson (Tripping over the Truth), and Nasha Winter and Jess Higgins
+Kelley (The Metabolic Approach to Cancer: Integrating deep nutrition, the ketogenic diet, and nontoxic bio-individualized therapies). I am also grateful for groups like Anticancer Fund and the Repurposing Drugs in Oncology (ReDO) (Cancer-Care-2024-03-29-v1.pdf)"
+
+- [Dr. Patrick Quillin](https://gettinghealthier.com/dr-patrick-quillin-phd/)
+
+### Dr. Del Rivero
+
+- [Dr. Del Rivero at NIH: New Clinical Trial Focuses on Use of Antibody-Drug Conjugate in Neuroendocrine Tumors and Carcinomas](https://netrf.org/2024/06/14/new-clinical-trial-focuses-on-use-of-antibody-drug-conjugate-in-neuroendocrine-tumors-and-carcinomas/)
+
+### Dr. Thomas Seyfried
 
 - [Dr. Seyfried](https://tomseyfried.com/)
   - Long-form interview that seems to cover everything Seyfried knows. Very, very good.  [The Cancer Expert: "This Common Food Is Making Cancer Worse!"](https://www.youtube.com/watch?v=VaVC3PAWqLk)
@@ -108,10 +134,15 @@ Mutation Theory?](files/metabolites-11-00572.pdf)
   - Wrote "Cancer as a Metabolic Disease: On the Origin, Management, and Prevention of Cancer"
   - Has a 'treatise' on mitochondrial and/or metabolic disease.  Find this!
 
-- Jane McLelland
-  - <https://www.howtostarvecancer.com/>
+### Joe Tippens
 
-- [Joe Tippens](https://www.facebook.com/groups/244815949755622/user/516066307/)
+Started the JTP ( Joe Tippens Protocol ).
+
+- [Facebook: Joe Tippens](https://www.facebook.com/groups/244815949755622/user/516066307/)
+
+### Chris Wark
+
+- [Chris Wark: Chris Beat Cancer](https://www.chrisbeatcancer.com/)
 
 ## Websites
 
@@ -173,6 +204,18 @@ Mutation Theory?](files/metabolites-11-00572.pdf)
 - [Williams Cancer Institute](https://williamscancerinstitute.com/)
   - Seems to do cyber-knife style debulking.
 
+#### Metabolic-Oriented Care and Providers
+
+- [Dr. Charles J. Meakin: Meakin Metabolic Care](https://meakinmetaboliccare.com/)
+
+#### Integrative and Functional Medicine
+
+- [Institute of Integrative BioOncology](https://i2b.us/)
+
+- <https://www.rootcausemetaboliccancer.com/>
+
+- <https://integrativehealthpractices.org/>
+
 #### Testing and Genetics
 
 - [RGCC: Research Genetic Cancer Center](https://myrgcc.com/)
@@ -232,6 +275,8 @@ Mutation Theory?](files/metabolites-11-00572.pdf)
 - [Metabolic Terrain Institute of Health](https://www.mtih.org/)
   - Dr. Nasha Winters
   
+- [Williams Cancer Institure - Beverly Hills, Cabo San Lucas, Mexico City](https://williamscancerinstitute.com/)
+
 - [~~International Organization of Integrative Cancer Physicians~~](www.ioicp.com)
   - Dead website.
   

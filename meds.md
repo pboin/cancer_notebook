@@ -1,14 +1,19 @@
 # Meds
 
-- [Meds](#meds)
-  - [Fenbendazole / FenBen](#fenbendazole--fenben)
-  - [FOLFIRINIOX](#folfiriniox)
-  - [Ipi-Novo](#ipi-novo)
-  - [Ivermectin](#ivermectin)
-  - [OLAPARIB](#olaparib)
-  - [pegfilgrastim-apgf](#pegfilgrastim-apgf)
+## Specific Agents
 
-## Fenbendazole / FenBen
+- [Meds](#meds)
+  - [Specific Agents](#specific-agents)
+    - [Fenbendazole / FenBen](#fenbendazole--fenben)
+    - [FOLFIRINIOX](#folfiriniox)
+    - [Ipi-Novo](#ipi-novo)
+    - [Ivermectin](#ivermectin)
+    - [OLAPARIB](#olaparib)
+    - [pegfilgrastim-apgf](#pegfilgrastim-apgf)
+  - [Metabolic Approach](#metabolic-approach)
+  - [Providers and Pharmacies](#providers-and-pharmacies)
+
+### Fenbendazole / FenBen
 
 - [Fenbendazole Joe Tippens Protocol: A Step-by-Step Guide (2024)
 By Dr. Frank Yap, MD - November 24, 2024](https://www.onedaymd.com/2024/04/fenbendazole-joe-tippens-protocol.html?m=1)
@@ -36,13 +41,17 @@ I bought a bag of powder Amazon which came with a 222mg spoon and I sprinkle a h
 
 ***
 
-## FOLFIRINIOX
+### FOLFIRINIOX
 
 - Fluorouracil, leucovorin, irinotecan, and oxaliplatin
 
-## Ipi-Novo
+### Ipi-Novo
 
-## Ivermectin
+### Ivermectin
+
+- [Ivermectin reverses the drug resistance in cancer cells through EGFR/ERK/Akt/NF-κB pathway](https://jeccr.biomedcentral.com/articles/10.1186/s13046-019-1251-7)
+
+- [The Surprising Potential of Ivermectin Against Cancer: Dr. Kathleen Ruddy](https://rumble.com/v5bp0d9-the-surprising-potential-of-ivermectin-against-cancer-dr.-kathleen-ruddy.html?mref=1bxo9j&mc=69gy3)
 
 - [Is There a Best Ivermectin Dosage for Cancers or Different Cancer Types?](https://www.brightworkresearch.com/is-there-a-best-ivermectin-dosage-for-cancer-or-cancer-types/)
 
@@ -50,11 +59,26 @@ I bought a bag of powder Amazon which came with a 222mg spoon and I sprinkle a h
 
 - [NIH: The multitargeted drug ivermectin: from an antiparasitic agent to a repositioned cancer drug](https://pmc.ncbi.nlm.nih.gov/articles/PMC5835698/#b47)
 
-## OLAPARIB
+### OLAPARIB
 
 - [Maintenance Olaparib for Germline BRCA-Mutated Metastatic Pancreatic Cancer](https://www.nejm.org/doi/full/10.1056/NEJMoa1903387)
 
-## pegfilgrastim-apgf
+### pegfilgrastim-apgf
 
 - "Pegylated recombinant methionyl human cranulocyte colony-stimulating factor deried from e-coli."
 - Nasty stuff.  On it and I hate it.
+
+## Metabolic Approach
+
+- [Targeting the Mitochondrial-Stem Cell Connection in Cancer Treatment: A Hybrid Orthomolecular Protocol](https://isom.ca/article/targeting-the-mitochondrial-stem-cell-connection-in-cancer-treatment-a-hybrid-orthomolecular-protocol/)
+
+- [Seyfried:  Can the Mitochondrial Metabolic Theory Explain Better the
+Origin and Management of Cancer than Can the Somatic
+Mutation Theory?](https://pmc.ncbi.nlm.nih.gov/articles/PMC8467939/pdf/metabolites-11-00572.pdf)
+
+## Providers and Pharmacies
+
+**NOTE:  These are not researched, validated, or vetted.  You'd be crazy to try them -- just sayin'.
+
+- <https://www.off-scriptrx.com/>
+- 
