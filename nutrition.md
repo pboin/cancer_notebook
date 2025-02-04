@@ -145,6 +145,12 @@ Touted as most powerful flavinoid known to man.[1]
 
 ### Keto
 
+- [The glucose ketone index calculator: a simple tool to monitor therapeutic efficacy for metabolic management of brain cancer](https://doi.org/10.1186/s12986-015-0009-2)
+  - Meidenbauer JJ, Mukherjee P, Seyfried TN. The glucose ketone index calculator: a simple tool to monitor therapeutic efficacy for metabolic management of brain cancer. Nutr Metab (Lond). 2015 Mar 11;12:12. doi: 10.1186/s12986-015-0009-2. PMID: 25798181; PMCID: PMC4367849.
+
+- [Clinical research framework proposal for ketogenic metabolic therapy in glioblastoma](https://doi.org/10.1186/s12916-024-03775-4)
+  - Duraj, T., Kalamian, M., Zuccoli, G. et al. Clinical research framework proposal for ketogenic metabolic therapy in glioblastoma. BMC Med 22, 578 (2024).
+
 - [Dr. Ken Berry:  Keto for Cancer is Real](https://www.youtube.com/watch?v=D4VJREqj99U)
 
 - Reddit: [r/keto FAQ](https://www.reddit.com/r/keto/wiki/faq/)
