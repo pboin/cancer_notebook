@@ -145,6 +145,8 @@ Touted as most powerful flavinoid known to man.[1]
 
 ### Keto
 
+- Short and direct talk from Seyfried on keto and glutamine. Only 7 mins. [The Two Fuels Cancer Needs to Survive—And How to Cut Them Off](https://www.youtube.com/watch?v=HZZxYRmU8-k)
+
 - [The glucose ketone index calculator: a simple tool to monitor therapeutic efficacy for metabolic management of brain cancer](https://doi.org/10.1186/s12986-015-0009-2)
   - Meidenbauer JJ, Mukherjee P, Seyfried TN. The glucose ketone index calculator: a simple tool to monitor therapeutic efficacy for metabolic management of brain cancer. Nutr Metab (Lond). 2015 Mar 11;12:12. doi: 10.1186/s12986-015-0009-2. PMID: 25798181; PMCID: PMC4367849.
 
