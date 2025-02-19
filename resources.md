@@ -29,6 +29,10 @@
 
 ### My Must-Reads
 
+- **[Cancer Care](https://www.amazon.com/Cancer-Care-Repurposed-Metabolic-Interventions/dp/0960126503)**, Paul Marik, MD ( 4.8 / 48 )
+  - 148 dense pages, but includes over 1300 citations.  The bona fides of this book may be one of the best parts.
+  - Marik puts together a lot of the integrative care options under one cover:  the metabolic approach, lifestyles for prevention, repurposed drugs sorted by tier, fasting, and a primer on chemo.
+
 - **[Notes from the Valley: A Spiritual Travelogue through Cancer](https://www.amazon.com/Notes-Valley-Spiritual-Travelogue-through/dp/0802412548/)**, Andy McQuitty ( 4.7 / 60 )
   - Fundamentally important book about Christian understanding of mortality, suffering, and the Lord's will.
 
