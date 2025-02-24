@@ -68,6 +68,8 @@ I bought a bag of powder Amazon which came with a 222mg spoon and I sprinkle a h
 - "Pegylated recombinant methionyl human cranulocyte colony-stimulating factor deried from e-coli."
 - Nasty stuff.  On it and I hate it.
 
+### Serrapeptase 
+
 ## Metabolic Approach
 
 - [Targeting the Mitochondrial-Stem Cell Connection in Cancer Treatment: A Hybrid Orthomolecular Protocol](https://isom.ca/article/targeting-the-mitochondrial-stem-cell-connection-in-cancer-treatment-a-hybrid-orthomolecular-protocol/)
