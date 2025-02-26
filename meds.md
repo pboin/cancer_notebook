@@ -55,7 +55,7 @@ I bought a bag of powder Amazon which came with a 222mg spoon and I sprinkle a h
 
 - [Is There a Best Ivermectin Dosage for Cancers or Different Cancer Types?](https://www.brightworkresearch.com/is-there-a-best-ivermectin-dosage-for-cancer-or-cancer-types/)
 
-- <https://x.com/MakisMD/status/1828024388580503589?t=ezQB3rqo63oAhGC83EutuA&s=19>
+- <https://x.com/MakisMD/status/1828024388580503589?t=ezQB3rqo63oAhGC83EutuA&s=19> "Ivermectin was tested at 2mg/kg/day" -> 190mg per day!  Very high compared to other comments.
 
 - [NIH: The multitargeted drug ivermectin: from an antiparasitic agent to a repositioned cancer drug](https://pmc.ncbi.nlm.nih.gov/articles/PMC5835698/#b47)
 
