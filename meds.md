@@ -49,6 +49,9 @@ I bought a bag of powder Amazon which came with a 222mg spoon and I sprinkle a h
 
 ### Ivermectin
 
+- [Ivermectin Dose for Humans](
+https://open.substack.com/pub/brighterworkscanceralternatives/p/ivermetin-dose-for-humans?utm_source=share&utm_medium=android&r=rbl8l)
+
 - [Ivermectin reverses the drug resistance in cancer cells through EGFR/ERK/Akt/NF-κB pathway](https://jeccr.biomedcentral.com/articles/10.1186/s13046-019-1251-7)
 
 - [The Surprising Potential of Ivermectin Against Cancer: Dr. Kathleen Ruddy](https://rumble.com/v5bp0d9-the-surprising-potential-of-ivermectin-against-cancer-dr.-kathleen-ruddy.html?mref=1bxo9j&mc=69gy3)
