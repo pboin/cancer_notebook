@@ -14,7 +14,7 @@
   - [Providers and Pharmacies](#providers-and-pharmacies)
 
 ### Fenbendazole / FenBen
-
+- [The Psychology of Choosing Fenbendazole](https://www.fenbendazole.org/the-psychology-of-choosing-fenbendazole/)
 - [Fenbendazole Joe Tippens Protocol: A Step-by-Step Guide (2024)
 By Dr. Frank Yap, MD - November 24, 2024](https://www.onedaymd.com/2024/04/fenbendazole-joe-tippens-protocol.html?m=1)
 - Dr. John Campbell on YouTube: [Fen ben for cancer?](https://www.youtube.com/watch?v=5Q5QjEPGNNg)
