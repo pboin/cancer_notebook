@@ -49,13 +49,16 @@ I bought a bag of powder Amazon which came with a 222mg spoon and I sprinkle a h
 
 ### Ivermectin
 
+- [Ivermectin Dose for Humans](
+https://open.substack.com/pub/brighterworkscanceralternatives/p/ivermetin-dose-for-humans?utm_source=share&utm_medium=android&r=rbl8l)
+
 - [Ivermectin reverses the drug resistance in cancer cells through EGFR/ERK/Akt/NF-κB pathway](https://jeccr.biomedcentral.com/articles/10.1186/s13046-019-1251-7)
 
 - [The Surprising Potential of Ivermectin Against Cancer: Dr. Kathleen Ruddy](https://rumble.com/v5bp0d9-the-surprising-potential-of-ivermectin-against-cancer-dr.-kathleen-ruddy.html?mref=1bxo9j&mc=69gy3)
 
 - [Is There a Best Ivermectin Dosage for Cancers or Different Cancer Types?](https://www.brightworkresearch.com/is-there-a-best-ivermectin-dosage-for-cancer-or-cancer-types/)
 
-- <https://x.com/MakisMD/status/1828024388580503589?t=ezQB3rqo63oAhGC83EutuA&s=19>
+- <https://x.com/MakisMD/status/1828024388580503589?t=ezQB3rqo63oAhGC83EutuA&s=19> "Ivermectin was tested at 2mg/kg/day" -> 190mg per day!  Very high compared to other comments.
 
 - [NIH: The multitargeted drug ivermectin: from an antiparasitic agent to a repositioned cancer drug](https://pmc.ncbi.nlm.nih.gov/articles/PMC5835698/#b47)
 
@@ -67,6 +70,8 @@ I bought a bag of powder Amazon which came with a 222mg spoon and I sprinkle a h
 
 - "Pegylated recombinant methionyl human cranulocyte colony-stimulating factor deried from e-coli."
 - Nasty stuff.  On it and I hate it.
+
+### Serrapeptase 
 
 ## Metabolic Approach
 

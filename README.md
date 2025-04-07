@@ -43,6 +43,10 @@ I recommend you start with a healthy, very low carb diet:
 
 - [Beating Cancer With Nutrition:  Using Nutrition and Other Modalities to Improve Quality and Quantity of Life for Medically Treated Cancer Patients](https://www.amazon.com/dp/1735234702/), by Patrick Quillin
 
+- [Cancer Care](https://www.amazon.com/Cancer-Care-Repurposed-Metabolic-Interventions/dp/0960126503), Paul Marik, MD
+
+- [Notes from the Valley: A Spiritual Travelogue through Cancer](https://www.amazon.com/Notes-Valley-Spiritual-Travelogue-through/dp/0802412548/), Andy McQuitty
+
 ***
 
 ```bash
