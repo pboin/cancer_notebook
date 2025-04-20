@@ -51,4 +51,6 @@ I recommend you start with a healthy, very low carb diet:
 
 ```bash
 pandoc README.MD resources.md nutrition.md pnets.md podcasts.md -t docx -o cancer_notebook.docx
+
+https://open.substack.com/pub/justusrhope/p/ai-uses-ivermectinmebendazole-to?utm_source=share&utm_medium=android&r=rbl8l
 ```
