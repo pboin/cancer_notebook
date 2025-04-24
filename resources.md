@@ -129,6 +129,7 @@ Kelley (The Metabolic Approach to Cancer: Integrating deep nutrition, the ketoge
 ### Dr. Thomas Seyfried
 
 - [Dr. Seyfried](https://tomseyfried.com/)
+  - [Mind & Matter Podcast:  Cancer Biology - Metabolism, Mitochondria & Energy | Thomas Seyfried | 224](https://www.nickjikomes.com/audio-episodes/episode/7eb1de5c/cancer-biology-metabolism-mitochondria-and-energy-or-thomas-seyfried-or-224)
   - Long-form interview that seems to cover everything Seyfried knows. Very, very good.  [The Cancer Expert: "This Common Food Is Making Cancer Worse!"](https://www.youtube.com/watch?v=VaVC3PAWqLk)
   - Big into the glucose-keytone index ( GKI )
   - Wrote "The Gluecose Keytone Index Calculator: A Simple Tool to Monitor Therapeutic Efficasy fro Metabolic Management of Brain Cancer"
