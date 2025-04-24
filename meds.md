@@ -13,6 +13,9 @@
   - [Metabolic Approach](#metabolic-approach)
   - [Providers and Pharmacies](#providers-and-pharmacies)
 
+### DMSO
+- https://open.substack.com/pub/amidwesterndoctor/p/the-remarkable-history-and-safety?utm_source=share&utm_medium=android&r=rbl8l
+
 ### Fenbendazole / FenBen
 - [The Psychology of Choosing Fenbendazole](https://www.fenbendazole.org/the-psychology-of-choosing-fenbendazole/)
 - [Fenbendazole Joe Tippens Protocol: A Step-by-Step Guide (2024)
