@@ -17,6 +17,9 @@
 - https://open.substack.com/pub/amidwesterndoctor/p/the-remarkable-history-and-safety?utm_source=share&utm_medium=android&r=rbl8l
 
 ### Fenbendazole / FenBen
+- Dig deeper and subscribe https://open.substack.com/pub/fastwell/p/an-odd-cure-for-incurable-cancer?utm_source=share&utm_medium=android&r=rbl8l
+
+
 - [The Psychology of Choosing Fenbendazole](https://www.fenbendazole.org/the-psychology-of-choosing-fenbendazole/)
 - [Fenbendazole Joe Tippens Protocol: A Step-by-Step Guide (2024)
 By Dr. Frank Yap, MD - November 24, 2024](https://www.onedaymd.com/2024/04/fenbendazole-joe-tippens-protocol.html?m=1)
