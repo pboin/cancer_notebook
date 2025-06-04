@@ -46,6 +46,9 @@ FLCCC:  Berberine: 500-600 mg twice daily
 ### Black Seed Oil
 
 - [Kresser: Top 3 Nutrients for Fighting Inflammation and Autoimmunity](https://chriskresser.com/top-3-nutrients-for-fighting-inflammation-and-autoimmunity/)
+
+  "What appears to work best in achieving a balanced and full-spectrum BSO is using freshly harvested black cumin seeds and a cold-pressed extraction. TriNutra’s patented form of BSO called ThymoQuin has done exactly that. This ingredient is made from fresh seeds with cold-pressed extraction to produce a standardized, full-spectrum oil with optimal ratios of all the bioactives found in black seeds."
+
 - [Thymoquin](https://www.trinutra.com/thymoquin)
 - [NIH PubMed:  Nutritional Value and Preventive Role of Nigella sativa L. and Its Main Component Thymoquinone in Cancer: An Evidenced-Based Review of Preclinical and Clinical Studies](https://pmc.ncbi.nlm.nih.gov/articles/PMC8067617/)
 
