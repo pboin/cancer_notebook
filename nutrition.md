@@ -8,6 +8,7 @@
     - [Curcumin](#curcumin)
     - [D3](#d3)
     - [Curcumin ( Tumeric )](#curcumin--tumeric-)
+    - [Fisetin and Rutin](#fisetin-and-rutin)
     - [Green Tea](#green-tea)
     - [K2](#k2)
     - [Melatonin](#melatonin)
@@ -79,6 +80,14 @@ This antioxidant, naturally produced by the body, protects against DNA damage, e
 - FLCCC:  Curcumin: (nanocurcumin) 600 mg twice daily
 
 - [Life Extension on Curcumin](https://www.lifeextension.com/magazine/2018/ss/curcumin-starves-cancer-cells-to-death)
+
+### Fisetin and Rutin
+
+"Prioritize fisetin over rutin due to its stronger evidence base for longevity and potential cancer benefits."
+
+Fisetin is celebrated as a powerful senolytic, meaning it selectively targets and removes senescent cells ("zombie cells") that accumulate with age and contribute to inflammation and age-related diseases
+
+"...integrative care perspectives suggest fisetin may be more relevant than rutin due to its stronger senolytic and anti-cancer properties. Fisetin’s ability to reduce inflammation, clear senescent cells, and potentially inhibit cancer cell growth aligns with supportive care goals for PNETs, such as reducing tumor-related inflammation or improving systemic health."
 
 ### Green Tea
 
