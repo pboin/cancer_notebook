@@ -149,7 +149,7 @@ Started the JTP ( Joe Tippens Protocol ).
 
 - [Chris Wark: Chris Beat Cancer](https://www.chrisbeatcancer.com/)
 
-- Dr Christy Kesslering
+### Dr Christy Kesslering
 
 Metabolic Matters: Breaking the Mold: Dr. Christy Kesslering's Innovative Approach to Oncology and Diet
 
