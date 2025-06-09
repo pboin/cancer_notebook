@@ -157,6 +157,8 @@ Touted as most powerful flavinoid known to man.[1]
 
 ### Keto
 
+- [Society for NeuroOncology :: QOLP-04. THE KETOGENIC DIET PLUS STANDARD CARE FOR RECENTLY DIAGNOSED GLIOBLASTOMA: A PHASE 1 SAFETY AND FEASIBILITY TRIAL](https://academic.oup.com/neuro-oncology/article/23/Supplement_6/vi183/6427140)
+
 - Short and direct talk from Seyfried on keto and glutamine. Only 7 mins. [The Two Fuels Cancer Needs to Survive—And How to Cut Them Off](https://www.youtube.com/watch?v=HZZxYRmU8-k)
 
 - [The glucose ketone index calculator: a simple tool to monitor therapeutic efficacy for metabolic management of brain cancer](https://doi.org/10.1186/s12986-015-0009-2)
