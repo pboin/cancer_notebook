@@ -4,21 +4,24 @@
 
 - [Meds](#meds)
   - [Specific Agents](#specific-agents)
+    - [DMSO](#dmso)
     - [Fenbendazole / FenBen](#fenbendazole--fenben)
     - [FOLFIRINIOX](#folfiriniox)
     - [Ipi-Novo](#ipi-novo)
     - [Ivermectin](#ivermectin)
     - [OLAPARIB](#olaparib)
     - [pegfilgrastim-apgf](#pegfilgrastim-apgf)
+    - [Serrapeptase](#serrapeptase)
   - [Metabolic Approach](#metabolic-approach)
   - [Providers and Pharmacies](#providers-and-pharmacies)
 
 ### DMSO
-- https://open.substack.com/pub/amidwesterndoctor/p/the-remarkable-history-and-safety?utm_source=share&utm_medium=android&r=rbl8l
+
+- <https://open.substack.com/pub/amidwesterndoctor/p/the-remarkable-history-and-safety?utm_source=share&utm_medium=android&r=rbl8l>
 
 ### Fenbendazole / FenBen
-- Dig deeper and subscribe https://open.substack.com/pub/fastwell/p/an-odd-cure-for-incurable-cancer?utm_source=share&utm_medium=android&r=rbl8l
 
+- Dig deeper and subscribe <https://open.substack.com/pub/fastwell/p/an-odd-cure-for-incurable-cancer?utm_source=share&utm_medium=android&r=rbl8l>
 
 - [The Psychology of Choosing Fenbendazole](https://www.fenbendazole.org/the-psychology-of-choosing-fenbendazole/)
 - [Fenbendazole Joe Tippens Protocol: A Step-by-Step Guide (2024)
@@ -77,7 +80,7 @@ https://open.substack.com/pub/brighterworkscanceralternatives/p/ivermetin-dose-f
 - "Pegylated recombinant methionyl human cranulocyte colony-stimulating factor deried from e-coli."
 - Nasty stuff.  On it and I hate it.
 
-### Serrapeptase 
+### Serrapeptase
 
 ## Metabolic Approach
 

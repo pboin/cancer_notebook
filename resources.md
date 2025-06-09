@@ -15,6 +15,7 @@
     - [Dr. Thomas Seyfried](#dr-thomas-seyfried)
     - [Joe Tippens](#joe-tippens)
     - [Chris Wark](#chris-wark)
+    - [Dr Christy Kesslering](#dr-christy-kesslering)
   - [Websites](#websites)
     - [To Check Out](#to-check-out)
     - [Reviewed](#reviewed)
@@ -153,9 +154,9 @@ Started the JTP ( Joe Tippens Protocol ).
 
 Metabolic Matters: Breaking the Mold: Dr. Christy Kesslering's Innovative Approach to Oncology and Diet
 
-Episode webpage: https://podcasters.spotify.com/pod/show/metabolic-matters/episodes/Breaking-the-Mold-Dr--Christy-Kesslerings-Innovative-Approach-to-Oncology-and-Diet-e30javh
+Episode webpage: <https://podcasters.spotify.com/pod/show/metabolic-matters/episodes/Breaking-the-Mold-Dr--Christy-Kesslerings-Innovative-Approach-to-Oncology-and-Diet-e30javh>
 
-Media file: https://anchor.fm/s/e7628774/podcast/play/100297137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-24%2F397135373-44100-2-7ceb9b0960f71.mp3
+Media file: <https://anchor.fm/s/e7628774/podcast/play/100297137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-24%2F397135373-44100-2-7ceb9b0960f71.>mp3
 
 ## Websites
 
