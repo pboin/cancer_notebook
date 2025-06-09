@@ -114,7 +114,7 @@ Several studies have shown tumor response to, or disease control with, chemother
 
 ### N-acetylcysteine ( NAC )
 
-- Also known as NAC, N-acetylcysteine is necessary for the production of glutathione—the body’s “master antioxidant” that fights free radical damage and protects DNA. NAC may mitigate genetic changes involved in the development of cancer, and many studies suggest it significantly lessens the risk of various kinds of cancer. 
+- Also known as NAC, N-acetylcysteine is necessary for the production of glutathione—the body’s “master antioxidant” that fights free radical damage and protects DNA. NAC may mitigate genetic changes involved in the development of cancer, and many studies suggest it significantly lessens the risk of various kinds of cancer.
 - <https://www.cleaneatingmag.com/clean-diet/food-health-news/7-supplements-to-save-your-dna/>
 - Mixed advice from Kalamian
 

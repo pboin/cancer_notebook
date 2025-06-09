@@ -16,6 +16,8 @@
     - [Joe Tippens](#joe-tippens)
     - [Chris Wark](#chris-wark)
     - [Dr Christy Kesslering](#dr-christy-kesslering)
+    - [Christopherson, Travis](#christopherson-travis)
+    - [Goodyear, Dr. Nathan](#goodyear-dr-nathan)
   - [Websites](#websites)
     - [To Check Out](#to-check-out)
     - [Reviewed](#reviewed)
@@ -162,13 +164,14 @@ Media file: <https://anchor.fm/s/e7628774/podcast/play/100297137/https%3A%2F%2Fd
 
 - <https://meakinmetaboliccare.com/travis-christofferson/>
 - <https://thesternmethod.com/travis-christofferson/>
-- Author of _Tripping over the Truth_ and _Cured_
+- Author of *Tripping over the Truth* and *Cured*
 - Is in a partnership with a company that does data analysis to blend integrative and allopathic care
 
 ### Goodyear, Dr. Nathan
+
 - <www.docgoodyear.com>
 - Pod:  Pre-scribed by Dr. Nathan Goodyear
-- X: @dr.godyear (sp?) 
+- X: @dr.godyear (sp?)
 - Associated with the [Williams Cancer Institute](https://williamscancerinstitute.com/)
 - Interviewed by Nasha Winters
 - Talks about repurposed drugs and referred to Christopherson's data analysis company.
