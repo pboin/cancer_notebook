@@ -164,9 +164,13 @@ Media file: https://anchor.fm/s/e7628774/podcast/play/100297137/https%3A%2F%2Fd3
 - Author of _Tripping over the Truth_ and _Cured_
 - Is in a partnership with a company that does data analysis to blend integrative and allopathic care
 
-### Goodyear
+### Goodyear, Dr. Nathan
+- <www.docgoodyear.com>
+- Pod:  Pre-scribed by Dr. Nathan Goodyear
+- X: @dr.godyear (sp?) 
+- Associated with the [Williams Cancer Institute](https://williamscancerinstitute.com/)
 - Interviewed by Nasha Winters
-- Talks about repurposed drugs and referred to Christopherson's dtaa analysis company.
+- Talks about repurposed drugs and referred to Christopherson's data analysis company.
 
 ## Websites
 
