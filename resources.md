@@ -157,6 +157,17 @@ Episode webpage: https://podcasters.spotify.com/pod/show/metabolic-matters/episo
 
 Media file: https://anchor.fm/s/e7628774/podcast/play/100297137/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-2-24%2F397135373-44100-2-7ceb9b0960f71.mp3
 
+### Christopherson, Travis
+
+- <https://meakinmetaboliccare.com/travis-christofferson/>
+- <https://thesternmethod.com/travis-christofferson/>
+- Author of _Tripping over the Truth_ and _Cured_
+- Is in a partnership with a company that does data analysis to blend integrative and allopathic care
+
+### Goodyear
+- Interviewed by Nasha Winters
+- Talks about repurposed drugs and referred to Christopherson's dtaa analysis company.
+
 ## Websites
 
 ### To Check Out
