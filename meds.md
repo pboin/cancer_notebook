@@ -12,6 +12,7 @@
     - [OLAPARIB](#olaparib)
     - [pegfilgrastim-apgf](#pegfilgrastim-apgf)
     - [Serrapeptase](#serrapeptase)
+    - [TARLATAMAB](#tarlatamab)
   - [Metabolic Approach](#metabolic-approach)
   - [Providers and Pharmacies](#providers-and-pharmacies)
 
@@ -81,6 +82,10 @@ https://open.substack.com/pub/brighterworkscanceralternatives/p/ivermetin-dose-f
 - Nasty stuff.  On it and I hate it.
 
 ### Serrapeptase
+
+### TARLATAMAB
+
+- [NEJM: Tarlatamab for Patients with Previously Treated Small-Cell Lung Cancer](https://www.nejm.org/doi/full/10.1056/NEJMoa2307980)
 
 ## Metabolic Approach
 

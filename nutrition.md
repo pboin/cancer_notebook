@@ -19,6 +19,7 @@
     - [Quercetin](#quercetin)
   - [Diet](#diet)
     - [Keto](#keto)
+    - [Liver-Specific](#liver-specific)
     - [Shakes](#shakes)
     - [Glutamine](#glutamine)
 
@@ -179,6 +180,24 @@ Touted as most powerful flavinoid known to man.[1]
 - [NCI: Ketogenic Diet](https://www.cancer.gov/about-cancer/treatment/side-effects/appetite-loss/nutrition-hp-pdq#_250_toc)
 
 - [NIH:  Potential Health Benefits of the Ketogenic Diet: A Narrative Review](https://pubmed.ncbi.nlm.nih.gov/34068325/)
+
+### Liver-Specific
+
+- [The Liver Foundation - Australia](https://liver.org.au)
+
+- "A 2019 article from health.usnews.com cautions that people with liver disease should only follow a ketogenic diet under medical supervision due to potential metabolic strain." <https://health.usnews.com/health-care/patient-advice/articles/2018-04-02/can-a-keto-diet-slow-the-growth-of-breast-cancer>
+
+- "MCTs (e.g., coconut oil, MCT oil) are more easily absorbed and converted to ketones by the liver compared to long-chain triglycerides (LCTs, e.g., from butter or red meat)."
+
+- "To minimize liver strain while keeping glucose low, include small amounts of nutrient-dense, low-glycemic carbohydrates like leafy greens (spinach, kale), cruciferous vegetables (broccoli, cauliflower), and berries. These provide fiber, antioxidants, and micronutrients that support liver detoxification and reduce oxidative stress."
+
+- "For liver cancer, choose high-quality proteins like fish, eggs, and lean poultry, which are less taxing on the liver than red meat."
+
+- "Include foods that support liver detoxification pathways, such as cruciferous vegetables (rich in sulforaphane), turmeric (curcumin), and garlic, which have anti-inflammatory and antioxidant properties."
+  
+- "Start with a modified ketogenic diet (e.g., 3:1 or 2:1 fat-to-protein-plus-carb ratio) to reduce liver strain compared to the stricter 4:1 ratio (90% fat). Aim for 70-80% fat, 15-20% protein, and 5-10% carbs."
+
+- "60-70% fat (emphasizing MCTs, olive oil, omega-3s), 15-20% protein (fish, eggs, lean poultry), 5-10% carbs (leafy greens, cruciferous vegetables, berries)."
 
 ### Shakes
 
