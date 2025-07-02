@@ -57,6 +57,8 @@ I bought a bag of powder Amazon which came with a 222mg spoon and I sprinkle a h
 
 ### Ipi-Novo
 
+- "IPINOVO is an ongoing phase II clinical trial ( [NCT05289856](https://clinicaltrials.gov/study/NCT05289856) ) evaluating the efficacy and safety of ipilimumab (anti-CTLA-4) and nivolumab (anti-PD-1) in patients with advanced, refractory, poorly differentiated neuroendocrine carcinomas (NECs), including pancreatic small cell NECs (SC PanNECs). The trial targets patients with progressive disease after prior treatments, focusing on immune checkpoint inhibitors (ICIs) for high-grade NECs."
+
 ### Ivermectin
 
 - [Ivermectin Dose for Humans](
