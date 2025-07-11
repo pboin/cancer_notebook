@@ -28,3 +28,7 @@ Poorly differentiated pancreatic neuroendocrine carcinomas (pNECs) are rare, hig
 ## DLL3
 
 - [Emerging therapies targeting the delta-like ligand 3 (DLL3) in small cell lung cancer](https://jhoonline.biomedcentral.com/articles/10.1186/s13045-023-01464-y)
+
+### PALB2
+
+- [PALB2 Interest Group, UK](https://www.palb2.org/)
