@@ -88,6 +88,7 @@ https://open.substack.com/pub/brighterworkscanceralternatives/p/ivermetin-dose-f
 ### TARLATAMAB
 
 - [NEJM: Tarlatamab for Patients with Previously Treated Small-Cell Lung Cancer](https://www.nejm.org/doi/full/10.1056/NEJMoa2307980)
+- [IMDELLTRA® (tarlatamab-dlle)](https://www.imdelltrahcp.com)
 
 ## Metabolic Approach
 
