@@ -64,6 +64,8 @@ This antioxidant, naturally produced by the body, protects against DNA damage, e
 
 - FLCCC:  600mg twice daily
 
+- NIH->NCI: [Curcumin (Curcuma, Turmeric) and Cancer (PDQ®)–Health Professional Version](https://www.cancer.gov/about-cancer/treatment/cam/hp/curcumin-pdq)
+
 ### D3
 
 - FLCCC protocol recommends 20,000 to 50,000 IU daily. Dosage adjust by blood levels to 25-OH level of ~100ng/ml
