@@ -54,3 +54,30 @@ pandoc README.MD resources.md nutrition.md pnets.md podcasts.md -t docx -o cance
 
 https://open.substack.com/pub/justusrhope/p/ai-uses-ivermectinmebendazole-to?utm_source=share&utm_medium=android&r=rbl8l
 ```
+#### Lymphedema
+<https://www.lymphoedema.org/information/self-management-videos/>
+[Self Drainage Videos](https://www.youtube.com/playlist?list=PLekVty32TyUmoDKIuzNUE3ppOuSzxn9hA>)
+[National Lymphedema Network](https://lymphnet.org/)
+[Elizabeth Soto, LMT in Lancaster](https://lymphnet.org/members/?id=80151757)
+[OncoLink](https://www.oncolink.org)
+
+
+
+[OncoLink: NET Cancer: “If you don’t suspect it, you can’t detect it!”](https://blogs.oncolink.org/2017/11/dont-suspect-cant-detect/)
+[Neuroendocrine Cancer Awareness Network](https://netcancerawareness.org)
+
+[PNET PDF -- save and link](https://www.netcancerawareness.org/wp-content/uploads/2022/07/neuroendocrine-patient.pdf)
+
+
+[Neuroendocrine Tumor Research Foundation](https://netrf.org/)
+
+Cancer Rehab PT with Kelley Sturm
+https://cancerrehabpt.com/blog/lymphedema-leg-exercises/
+
+[Lymphology Association of North America](https://www.clt-lana.org/)
+
+
+
+
+
+
