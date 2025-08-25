@@ -22,6 +22,8 @@
 
 ### Fenbendazole / FenBen
 
+- The Money Behind Cancer Treatment. Why FDA Will Not Approve Fenbendazole <https://www.fenbendazole.org/fda-will-not-approve-fenbendazole/>
+
 - Dig deeper and subscribe <https://open.substack.com/pub/fastwell/p/an-odd-cure-for-incurable-cancer?utm_source=share&utm_medium=android&r=rbl8l>
 
 - [The Psychology of Choosing Fenbendazole](https://www.fenbendazole.org/the-psychology-of-choosing-fenbendazole/)
